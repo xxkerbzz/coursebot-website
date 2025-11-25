@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     description: 'Stop answering the same questions. CourseBot gives your students instant 24/7 answers while giving you back 10+ hours every week.',
   },
   verification: {
-    google: 'iMF6pL1XsIB1fUdWS9JEJrCfYhmFdEKN-gujj1hR2Ck',
+    google: '0O86oBiQ5gnKWqCTxq2wa8kkeByLwtXaBmTmB96oLgU',
   },
 };
 
