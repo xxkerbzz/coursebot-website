@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'LMS Integration & Technology', url: 'https://coursebot.com/resources/lms-integration-and-technology' },
-        { name: 'What Is LMS Integration', url: 'https://coursebot.com/resources/lms-integration-and-technology/learning-management-system-integration/what-is-lms-integration' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'LMS Integration & Technology', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology' },
+        { name: 'What Is LMS Integration', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology/learning-management-system-integration/what-is-lms-integration' },
       ]}
       title="What Is LMS Integration"
       h1="What Is LMS Integration"

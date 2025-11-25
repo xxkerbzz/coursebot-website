@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'AI Student Support for Online Education', url: 'https://coursebot.com/resources/ai-student-support-for-online-education' },
-        { name: 'How to Implement a Course Support Chatbot', url: 'https://coursebot.com/resources/ai-student-support-for-online-education/course-support-chatbots/how-to-implement-a-course-support-chatbot' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'AI Student Support for Online Education', url: 'https://coursebot-website.vercel.app/resources/ai-student-support-for-online-education' },
+        { name: 'How to Implement a Course Support Chatbot', url: 'https://coursebot-website.vercel.app/resources/ai-student-support-for-online-education/course-support-chatbots/how-to-implement-a-course-support-chatbot' },
       ]}
       title="How to Implement a Course Support Chatbot"
       h1="How to Implement a Course Support Chatbot"

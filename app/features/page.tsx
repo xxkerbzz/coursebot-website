@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'CourseBot Features - Complete AI Student Support Platform',
     description: 'Every feature you need to automate student support and save 10+ hours weekly',
-    url: 'https://coursebot.com/features',
+    url: 'https://coursebot-website.vercel.app/features',
   },
 };
 
@@ -111,7 +111,7 @@ export default function FeaturesPage() {
   return (
     <div className="bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <Breadcrumbs items={[{ name: 'Features', url: 'https://coursebot.com/features' }]} />
+        <Breadcrumbs items={[{ name: 'Features', url: 'https://coursebot-website.vercel.app/features' }]} />
 
         {/* Hero */}
         <div className="text-center max-w-4xl mx-auto mb-20">

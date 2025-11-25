@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'AI Student Support for Online Education', url: 'https://coursebot.com/resources/ai-student-support-for-online-education' },
-        { name: 'How to Choose an AI Learning Assistant', url: 'https://coursebot.com/resources/ai-student-support-for-online-education/ai-learning-assistants/how-to-choose-an-ai-learning-assistant' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'AI Student Support for Online Education', url: 'https://coursebot-website.vercel.app/resources/ai-student-support-for-online-education' },
+        { name: 'How to Choose an AI Learning Assistant', url: 'https://coursebot-website.vercel.app/resources/ai-student-support-for-online-education/ai-learning-assistants/how-to-choose-an-ai-learning-assistant' },
       ]}
       title="How to Choose an AI Learning Assistant"
       h1="How to Choose an AI Learning Assistant"

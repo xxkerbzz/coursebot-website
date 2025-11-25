@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Student Engagement & Success', url: 'https://coursebot.com/resources/student-engagement-and-success' },
-        { name: 'Why Students Drop Out of Online Courses', url: 'https://coursebot.com/resources/student-engagement-and-success/student-retention-strategies/why-students-drop-out-of-online-courses' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Student Engagement & Success', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success' },
+        { name: 'Why Students Drop Out of Online Courses', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success/student-retention-strategies/why-students-drop-out-of-online-courses' },
       ]}
       title="Why Students Drop Out of Online Courses"
       h1="Why Students Drop Out of Online Courses"

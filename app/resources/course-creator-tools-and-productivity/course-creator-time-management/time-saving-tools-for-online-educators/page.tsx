@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity' },
-        { name: 'Time-Saving Tools for Online Educators', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity/course-creator-time-management/time-saving-tools-for-online-educators' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity' },
+        { name: 'Time-Saving Tools for Online Educators', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity/course-creator-time-management/time-saving-tools-for-online-educators' },
       ]}
       title="Time-Saving Tools for Online Educators"
       h1="Time-Saving Tools for Online Educators"

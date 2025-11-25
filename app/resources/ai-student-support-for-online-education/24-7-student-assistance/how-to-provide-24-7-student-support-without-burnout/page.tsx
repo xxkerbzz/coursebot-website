@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'AI Student Support for Online Education', url: 'https://coursebot.com/resources/ai-student-support-for-online-education' },
-        { name: 'How to Provide 24/7 Student Support Without Burnout', url: 'https://coursebot.com/resources/ai-student-support-for-online-education/24-7-student-assistance/how-to-provide-24-7-student-support-without-burnout' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'AI Student Support for Online Education', url: 'https://coursebot-website.vercel.app/resources/ai-student-support-for-online-education' },
+        { name: 'How to Provide 24/7 Student Support Without Burnout', url: 'https://coursebot-website.vercel.app/resources/ai-student-support-for-online-education/24-7-student-assistance/how-to-provide-24-7-student-support-without-burnout' },
       ]}
       title="How to Provide 24/7 Student Support Without Burnout"
       h1="How to Provide 24/7 Student Support Without Burnout"

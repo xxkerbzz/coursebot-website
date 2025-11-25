@@ -13,8 +13,8 @@ export default function CourseCreatorsPage() {
     <div className="bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <Breadcrumbs items={[
-          { name: 'Solutions', url: 'https://coursebot.com/solutions' },
-          { name: 'For Course Creators', url: 'https://coursebot.com/solutions/course-creators' }
+          { name: 'Solutions', url: 'https://coursebot-website.vercel.app/solutions' },
+          { name: 'For Course Creators', url: 'https://coursebot-website.vercel.app/solutions/course-creators' }
         ]} />
         
         <div className="text-center max-w-4xl mx-auto mb-16">

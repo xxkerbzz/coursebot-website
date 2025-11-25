@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'LMS Integration & Technology', url: 'https://coursebot.com/resources/lms-integration-and-technology' },
-        { name: 'How to Integrate AI Support with Teachable', url: 'https://coursebot.com/resources/lms-integration-and-technology/teachable-integration/how-to-integrate-ai-support-with-teachable' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'LMS Integration & Technology', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology' },
+        { name: 'How to Integrate AI Support with Teachable', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology/teachable-integration/how-to-integrate-ai-support-with-teachable' },
       ]}
       title="How to Integrate AI Support with Teachable"
       h1="How to Integrate AI Support with Teachable"

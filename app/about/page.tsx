@@ -9,7 +9,7 @@ export default function AboutPage() {
   return (
     <div className="bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <Breadcrumbs items={[{ name: 'About', url: 'https://coursebot.com/about' }]} />
+        <Breadcrumbs items={[{ name: 'About', url: 'https://coursebot-website.vercel.app/about' }]} />
         <div className="max-w-4xl mx-auto">
           <h1 className="text-5xl font-light text-gray-900 mb-12 text-center">We're on a Mission to Give Educators Their Time Back</h1>
 

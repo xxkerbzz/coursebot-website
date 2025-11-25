@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'LMS Integration & Technology', url: 'https://coursebot.com/resources/lms-integration-and-technology' },
-        { name: 'Benefits of LMS Integration for Course Creators', url: 'https://coursebot.com/resources/lms-integration-and-technology/learning-management-system-integration/benefits-of-lms-integration-for-course-creators' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'LMS Integration & Technology', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology' },
+        { name: 'Benefits of LMS Integration for Course Creators', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology/learning-management-system-integration/benefits-of-lms-integration-for-course-creators' },
       ]}
       title="Benefits of LMS Integration for Course Creators"
       h1="Benefits of LMS Integration for Course Creators"

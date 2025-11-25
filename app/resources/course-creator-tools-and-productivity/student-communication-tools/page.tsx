@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity' },
-        { name: 'Student Communication Tools', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity/student-communication-tools' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity' },
+        { name: 'Student Communication Tools', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity/student-communication-tools' },
       ]}
       title="Student Communication Tools: Your Complete Guide"
       h1="Student Communication Tools: Your Complete Guide"

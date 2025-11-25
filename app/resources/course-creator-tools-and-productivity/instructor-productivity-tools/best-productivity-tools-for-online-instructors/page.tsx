@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity' },
-        { name: 'Best Productivity Tools for Online Instructors', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity/instructor-productivity-tools/best-productivity-tools-for-online-instructors' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity' },
+        { name: 'Best Productivity Tools for Online Instructors', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity/instructor-productivity-tools/best-productivity-tools-for-online-instructors' },
       ]}
       title="Best Productivity Tools for Online Instructors"
       h1="Best Productivity Tools for Online Instructors"

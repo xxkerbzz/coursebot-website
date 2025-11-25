@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Student Engagement & Success', url: 'https://coursebot.com/resources/student-engagement-and-success' },
-        { name: 'Best Tools for Instant Student Assistance', url: 'https://coursebot.com/resources/student-engagement-and-success/instant-student-help/best-tools-for-instant-student-assistance' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Student Engagement & Success', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success' },
+        { name: 'Best Tools for Instant Student Assistance', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success/instant-student-help/best-tools-for-instant-student-assistance' },
       ]}
       title="Best Tools for Instant Student Assistance"
       h1="Best Tools for Instant Student Assistance"

@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'AI Student Support for Online Education', url: 'https://coursebot.com/resources/ai-student-support-for-online-education' },
-        { name: 'How Much Does AI FAQ Automation Cost', url: 'https://coursebot.com/resources/ai-student-support-for-online-education/ai-faq-automation/how-much-does-ai-faq-automation-cost' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'AI Student Support for Online Education', url: 'https://coursebot-website.vercel.app/resources/ai-student-support-for-online-education' },
+        { name: 'How Much Does AI FAQ Automation Cost', url: 'https://coursebot-website.vercel.app/resources/ai-student-support-for-online-education/ai-faq-automation/how-much-does-ai-faq-automation-cost' },
       ]}
       title="How Much Does AI FAQ Automation Cost"
       h1="How Much Does AI FAQ Automation Cost"

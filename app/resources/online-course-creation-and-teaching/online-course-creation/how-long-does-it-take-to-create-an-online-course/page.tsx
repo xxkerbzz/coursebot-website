@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Online Course Creation & Teaching', url: 'https://coursebot.com/resources/online-course-creation-and-teaching' },
-        { name: 'How Long Does It Take to Create an Online Course', url: 'https://coursebot.com/resources/online-course-creation-and-teaching/online-course-creation/how-long-does-it-take-to-create-an-online-course' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Online Course Creation & Teaching', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching' },
+        { name: 'How Long Does It Take to Create an Online Course', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching/online-course-creation/how-long-does-it-take-to-create-an-online-course' },
       ]}
       title="How Long Does It Take to Create an Online Course"
       h1="How Long Does It Take to Create an Online Course"

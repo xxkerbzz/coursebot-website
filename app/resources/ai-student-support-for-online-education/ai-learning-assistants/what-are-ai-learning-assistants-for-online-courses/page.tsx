@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'AI Student Support for Online Education', url: 'https://coursebot.com/resources/ai-student-support-for-online-education' },
-        { name: 'What Are AI Learning Assistants for Online Courses', url: 'https://coursebot.com/resources/ai-student-support-for-online-education/ai-learning-assistants/what-are-ai-learning-assistants-for-online-courses' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'AI Student Support for Online Education', url: 'https://coursebot-website.vercel.app/resources/ai-student-support-for-online-education' },
+        { name: 'What Are AI Learning Assistants for Online Courses', url: 'https://coursebot-website.vercel.app/resources/ai-student-support-for-online-education/ai-learning-assistants/what-are-ai-learning-assistants-for-online-courses' },
       ]}
       title="What Are AI Learning Assistants for Online Courses"
       h1="What Are AI Learning Assistants for Online Courses"

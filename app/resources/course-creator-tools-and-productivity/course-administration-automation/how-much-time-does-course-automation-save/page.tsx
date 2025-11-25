@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity' },
-        { name: 'How Much Time Does Course Automation Save', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity/course-administration-automation/how-much-time-does-course-automation-save' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity' },
+        { name: 'How Much Time Does Course Automation Save', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity/course-administration-automation/how-much-time-does-course-automation-save' },
       ]}
       title="How Much Time Does Course Automation Save"
       h1="How Much Time Does Course Automation Save"

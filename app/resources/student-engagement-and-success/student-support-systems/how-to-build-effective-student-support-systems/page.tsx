@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Student Engagement & Success', url: 'https://coursebot.com/resources/student-engagement-and-success' },
-        { name: 'How to Build Effective Student Support Systems', url: 'https://coursebot.com/resources/student-engagement-and-success/student-support-systems/how-to-build-effective-student-support-systems' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Student Engagement & Success', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success' },
+        { name: 'How to Build Effective Student Support Systems', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success/student-support-systems/how-to-build-effective-student-support-systems' },
       ]}
       title="How to Build Effective Student Support Systems"
       h1="How to Build Effective Student Support Systems"

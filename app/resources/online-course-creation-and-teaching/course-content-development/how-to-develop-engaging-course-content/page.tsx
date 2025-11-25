@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Online Course Creation & Teaching', url: 'https://coursebot.com/resources/online-course-creation-and-teaching' },
-        { name: 'How to Develop Engaging Course Content', url: 'https://coursebot.com/resources/online-course-creation-and-teaching/course-content-development/how-to-develop-engaging-course-content' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Online Course Creation & Teaching', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching' },
+        { name: 'How to Develop Engaging Course Content', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching/course-content-development/how-to-develop-engaging-course-content' },
       ]}
       title="How to Develop Engaging Course Content"
       h1="How to Develop Engaging Course Content"

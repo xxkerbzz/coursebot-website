@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'LMS Integration & Technology', url: 'https://coursebot.com/resources/lms-integration-and-technology' },
-        { name: 'How to Add AI Support to Thinkific Courses', url: 'https://coursebot.com/resources/lms-integration-and-technology/thinkific-integration/how-to-add-ai-support-to-thinkific-courses' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'LMS Integration & Technology', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology' },
+        { name: 'How to Add AI Support to Thinkific Courses', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology/thinkific-integration/how-to-add-ai-support-to-thinkific-courses' },
       ]}
       title="How to Add AI Support to Thinkific Courses"
       h1="How to Add AI Support to Thinkific Courses"

@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'LMS Integration & Technology', url: 'https://coursebot.com/resources/lms-integration-and-technology' },
-        { name: 'How to Set Up Chatbots on Thinkific', url: 'https://coursebot.com/resources/lms-integration-and-technology/thinkific-integration/how-to-set-up-chatbots-on-thinkific' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'LMS Integration & Technology', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology' },
+        { name: 'How to Set Up Chatbots on Thinkific', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology/thinkific-integration/how-to-set-up-chatbots-on-thinkific' },
       ]}
       title="How to Set Up Chatbots on Thinkific"
       h1="How to Set Up Chatbots on Thinkific"

@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Educational Technology & EdTech', url: 'https://coursebot.com/resources/educational-technology-and-edtech' },
-        { name: 'Best AI Tools for Educators', url: 'https://coursebot.com/resources/educational-technology-and-edtech/ai-in-education/best-ai-tools-for-educators' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Educational Technology & EdTech', url: 'https://coursebot-website.vercel.app/resources/educational-technology-and-edtech' },
+        { name: 'Best AI Tools for Educators', url: 'https://coursebot-website.vercel.app/resources/educational-technology-and-edtech/ai-in-education/best-ai-tools-for-educators' },
       ]}
       title="Best AI Tools for Educators"
       h1="Best AI Tools for Educators"

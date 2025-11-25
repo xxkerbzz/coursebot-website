@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Educational Technology & EdTech', url: 'https://coursebot.com/resources/educational-technology-and-edtech' },
-        { name: 'Education Technology Market Growth', url: 'https://coursebot.com/resources/educational-technology-and-edtech/education-technology-trends/education-technology-market-growth' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Educational Technology & EdTech', url: 'https://coursebot-website.vercel.app/resources/educational-technology-and-edtech' },
+        { name: 'Education Technology Market Growth', url: 'https://coursebot-website.vercel.app/resources/educational-technology-and-edtech/education-technology-trends/education-technology-market-growth' },
       ]}
       title="Education Technology Market Growth"
       h1="Education Technology Market Growth"

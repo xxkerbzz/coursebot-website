@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'LMS Integration & Technology', url: 'https://coursebot.com/resources/lms-integration-and-technology' },
-        { name: 'Benefits of Canvas LMS Integration for Universities', url: 'https://coursebot.com/resources/lms-integration-and-technology/canvas-lms-integration/benefits-of-canvas-lms-integration-for-universities' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'LMS Integration & Technology', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology' },
+        { name: 'Benefits of Canvas LMS Integration for Universities', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology/canvas-lms-integration/benefits-of-canvas-lms-integration-for-universities' },
       ]}
       title="Benefits of Canvas LMS Integration for Universities"
       h1="Benefits of Canvas LMS Integration for Universities"

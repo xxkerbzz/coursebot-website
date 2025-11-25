@@ -23,7 +23,7 @@ export default function ContactPage() {
         }}
       />
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <Breadcrumbs items={[{ name: 'Contact', url: 'https://coursebot.com/contact' }]} />
+        <Breadcrumbs items={[{ name: 'Contact', url: 'https://coursebot-website.vercel.app/contact' }]} />
         <div className="max-w-4xl mx-auto">
           <div className="text-center mb-16">
             <h1 className="text-5xl font-light text-gray-900 mb-6">Get in Touch</h1>

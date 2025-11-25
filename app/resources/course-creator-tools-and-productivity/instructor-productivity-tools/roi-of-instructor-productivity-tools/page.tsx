@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity' },
-        { name: 'ROI of Instructor Productivity Tools', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity/instructor-productivity-tools/roi-of-instructor-productivity-tools' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity' },
+        { name: 'ROI of Instructor Productivity Tools', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity/instructor-productivity-tools/roi-of-instructor-productivity-tools' },
       ]}
       title="ROI of Instructor Productivity Tools"
       h1="ROI of Instructor Productivity Tools"

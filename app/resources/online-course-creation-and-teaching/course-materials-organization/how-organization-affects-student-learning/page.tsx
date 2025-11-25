@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Online Course Creation & Teaching', url: 'https://coursebot.com/resources/online-course-creation-and-teaching' },
-        { name: 'How Organization Affects Student Learning', url: 'https://coursebot.com/resources/online-course-creation-and-teaching/course-materials-organization/how-organization-affects-student-learning' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Online Course Creation & Teaching', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching' },
+        { name: 'How Organization Affects Student Learning', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching/course-materials-organization/how-organization-affects-student-learning' },
       ]}
       title="How Organization Affects Student Learning"
       h1="How Organization Affects Student Learning"

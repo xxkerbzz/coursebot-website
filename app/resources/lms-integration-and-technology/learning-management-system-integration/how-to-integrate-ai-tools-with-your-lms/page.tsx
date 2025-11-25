@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'LMS Integration & Technology', url: 'https://coursebot.com/resources/lms-integration-and-technology' },
-        { name: 'How to Integrate AI Tools with Your LMS', url: 'https://coursebot.com/resources/lms-integration-and-technology/learning-management-system-integration/how-to-integrate-ai-tools-with-your-lms' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'LMS Integration & Technology', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology' },
+        { name: 'How to Integrate AI Tools with Your LMS', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology/learning-management-system-integration/how-to-integrate-ai-tools-with-your-lms' },
       ]}
       title="How to Integrate AI Tools with Your LMS"
       h1="How to Integrate AI Tools with Your LMS"

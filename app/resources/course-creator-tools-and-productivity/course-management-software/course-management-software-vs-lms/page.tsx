@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity' },
-        { name: 'Course Management Software vs LMS', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity/course-management-software/course-management-software-vs-lms' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity' },
+        { name: 'Course Management Software vs LMS', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity/course-management-software/course-management-software-vs-lms' },
       ]}
       title="Course Management Software vs LMS"
       h1="Course Management Software vs LMS"

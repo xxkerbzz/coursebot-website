@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'CourseBot Security & Compliance',
     description: 'Enterprise security and FERPA compliance you can trust',
-    url: 'https://coursebot.com/security',
+    url: 'https://coursebot-website.vercel.app/security',
   },
 };
 
@@ -18,7 +18,7 @@ export default function SecurityPage() {
   return (
     <div className="bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <Breadcrumbs items={[{ name: 'Security & Compliance', url: 'https://coursebot.com/security' }]} />
+        <Breadcrumbs items={[{ name: 'Security & Compliance', url: 'https://coursebot-website.vercel.app/security' }]} />
 
         {/* Hero */}
         <div className="text-center max-w-4xl mx-auto mb-20">

@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity' },
-        { name: 'What Are the Best Tools for Answering Student Questions', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity/student-communication-tools/what-are-the-best-tools-for-answering-student-questions' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity' },
+        { name: 'What Are the Best Tools for Answering Student Questions', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity/student-communication-tools/what-are-the-best-tools-for-answering-student-questions' },
       ]}
       title="What Are the Best Tools for Answering Student Questions"
       h1="What Are the Best Tools for Answering Student Questions"

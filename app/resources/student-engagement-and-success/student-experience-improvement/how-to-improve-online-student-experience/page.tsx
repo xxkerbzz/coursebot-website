@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Student Engagement & Success', url: 'https://coursebot.com/resources/student-engagement-and-success' },
-        { name: 'How to Improve Online Student Experience', url: 'https://coursebot.com/resources/student-engagement-and-success/student-experience-improvement/how-to-improve-online-student-experience' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Student Engagement & Success', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success' },
+        { name: 'How to Improve Online Student Experience', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success/student-experience-improvement/how-to-improve-online-student-experience' },
       ]}
       title="How to Improve Online Student Experience"
       h1="How to Improve Online Student Experience"

@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'LMS Integration & Technology', url: 'https://coursebot.com/resources/lms-integration-and-technology' },
-        { name: 'Teachable API Integration for Course Creators', url: 'https://coursebot.com/resources/lms-integration-and-technology/teachable-integration/teachable-api-integration-for-course-creators' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'LMS Integration & Technology', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology' },
+        { name: 'Teachable API Integration for Course Creators', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology/teachable-integration/teachable-api-integration-for-course-creators' },
       ]}
       title="Teachable API Integration for Course Creators"
       h1="Teachable API Integration for Course Creators"

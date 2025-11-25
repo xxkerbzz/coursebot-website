@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity' },
-        { name: 'How to Improve Student Communication Efficiency', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity/student-communication-tools/how-to-improve-student-communication-efficiency' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity' },
+        { name: 'How to Improve Student Communication Efficiency', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity/student-communication-tools/how-to-improve-student-communication-efficiency' },
       ]}
       title="How to Improve Student Communication Efficiency"
       h1="How to Improve Student Communication Efficiency"

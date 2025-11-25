@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Online Course Creation & Teaching', url: 'https://coursebot.com/resources/online-course-creation-and-teaching' },
-        { name: 'Best Digital Learning Resources for Course Creators', url: 'https://coursebot.com/resources/online-course-creation-and-teaching/digital-learning-resources/best-digital-learning-resources-for-course-creators' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Online Course Creation & Teaching', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching' },
+        { name: 'Best Digital Learning Resources for Course Creators', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching/digital-learning-resources/best-digital-learning-resources-for-course-creators' },
       ]}
       title="Best Digital Learning Resources for Course Creators"
       h1="Best Digital Learning Resources for Course Creators"

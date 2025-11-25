@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'LMS Integration & Technology', url: 'https://coursebot.com/resources/lms-integration-and-technology' },
-        { name: 'Teachable AI Chatbot Integration Guide', url: 'https://coursebot.com/resources/lms-integration-and-technology/teachable-integration/teachable-ai-chatbot-integration-guide' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'LMS Integration & Technology', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology' },
+        { name: 'Teachable AI Chatbot Integration Guide', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology/teachable-integration/teachable-ai-chatbot-integration-guide' },
       ]}
       title="Teachable AI Chatbot Integration Guide"
       h1="Teachable AI Chatbot Integration Guide"

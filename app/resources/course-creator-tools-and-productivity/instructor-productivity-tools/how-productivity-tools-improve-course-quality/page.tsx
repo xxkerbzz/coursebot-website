@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity' },
-        { name: 'How Productivity Tools Improve Course Quality', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity/instructor-productivity-tools/how-productivity-tools-improve-course-quality' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity' },
+        { name: 'How Productivity Tools Improve Course Quality', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity/instructor-productivity-tools/how-productivity-tools-improve-course-quality' },
       ]}
       title="How Productivity Tools Improve Course Quality"
       h1="How Productivity Tools Improve Course Quality"

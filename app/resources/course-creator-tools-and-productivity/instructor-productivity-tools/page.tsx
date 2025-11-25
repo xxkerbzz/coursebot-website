@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity' },
-        { name: 'Instructor Productivity Tools', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity/instructor-productivity-tools' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity' },
+        { name: 'Instructor Productivity Tools', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity/instructor-productivity-tools' },
       ]}
       title="Instructor Productivity Tools: Your Complete Guide"
       h1="Instructor Productivity Tools: Your Complete Guide"

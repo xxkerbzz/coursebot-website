@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Student Engagement & Success', url: 'https://coursebot.com/resources/student-engagement-and-success' },
-        { name: 'Best Student Support Systems for Online Courses', url: 'https://coursebot.com/resources/student-engagement-and-success/student-support-systems/best-student-support-systems-for-online-courses' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Student Engagement & Success', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success' },
+        { name: 'Best Student Support Systems for Online Courses', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success/student-support-systems/best-student-support-systems-for-online-courses' },
       ]}
       title="Best Student Support Systems for Online Courses"
       h1="Best Student Support Systems for Online Courses"

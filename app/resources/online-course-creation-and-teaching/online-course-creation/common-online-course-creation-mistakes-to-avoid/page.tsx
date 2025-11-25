@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Online Course Creation & Teaching', url: 'https://coursebot.com/resources/online-course-creation-and-teaching' },
-        { name: 'Common Online Course Creation Mistakes to Avoid', url: 'https://coursebot.com/resources/online-course-creation-and-teaching/online-course-creation/common-online-course-creation-mistakes-to-avoid' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Online Course Creation & Teaching', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching' },
+        { name: 'Common Online Course Creation Mistakes to Avoid', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching/online-course-creation/common-online-course-creation-mistakes-to-avoid' },
       ]}
       title="Common Online Course Creation Mistakes to Avoid"
       h1="Common Online Course Creation Mistakes to Avoid"

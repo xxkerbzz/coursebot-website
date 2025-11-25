@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Educational Technology & EdTech', url: 'https://coursebot.com/resources/educational-technology-and-edtech' },
-        { name: 'How Educational Automation Improves Teaching', url: 'https://coursebot.com/resources/educational-technology-and-edtech/educational-automation-tools/how-educational-automation-improves-teaching' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Educational Technology & EdTech', url: 'https://coursebot-website.vercel.app/resources/educational-technology-and-edtech' },
+        { name: 'How Educational Automation Improves Teaching', url: 'https://coursebot-website.vercel.app/resources/educational-technology-and-edtech/educational-automation-tools/how-educational-automation-improves-teaching' },
       ]}
       title="How Educational Automation Improves Teaching"
       h1="How Educational Automation Improves Teaching"

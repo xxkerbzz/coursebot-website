@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Student Engagement & Success', url: 'https://coursebot.com/resources/student-engagement-and-success' },
-        { name: 'Why Instant Student Help Matters', url: 'https://coursebot.com/resources/student-engagement-and-success/instant-student-help/why-instant-student-help-matters' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Student Engagement & Success', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success' },
+        { name: 'Why Instant Student Help Matters', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success/instant-student-help/why-instant-student-help-matters' },
       ]}
       title="Why Instant Student Help Matters"
       h1="Why Instant Student Help Matters"

@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Educational Technology & EdTech', url: 'https://coursebot.com/resources/educational-technology-and-edtech' },
-        { name: 'What Are Educational Automation Tools', url: 'https://coursebot.com/resources/educational-technology-and-edtech/educational-automation-tools/what-are-educational-automation-tools' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Educational Technology & EdTech', url: 'https://coursebot-website.vercel.app/resources/educational-technology-and-edtech' },
+        { name: 'What Are Educational Automation Tools', url: 'https://coursebot-website.vercel.app/resources/educational-technology-and-edtech/educational-automation-tools/what-are-educational-automation-tools' },
       ]}
       title="What Are Educational Automation Tools"
       h1="What Are Educational Automation Tools"

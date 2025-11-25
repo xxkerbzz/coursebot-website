@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity' },
-        { name: 'Top 10 Tools Every Course Creator Needs', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity/instructor-productivity-tools/top-10-tools-every-course-creator-needs' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity' },
+        { name: 'Top 10 Tools Every Course Creator Needs', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity/instructor-productivity-tools/top-10-tools-every-course-creator-needs' },
       ]}
       title="Top 10 Tools Every Course Creator Needs"
       h1="Top 10 Tools Every Course Creator Needs"

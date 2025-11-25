@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'AI Student Support for Online Education', url: 'https://coursebot.com/resources/ai-student-support-for-online-education' },
-        { name: 'Student Question Management', url: 'https://coursebot.com/resources/ai-student-support-for-online-education/student-question-management' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'AI Student Support for Online Education', url: 'https://coursebot-website.vercel.app/resources/ai-student-support-for-online-education' },
+        { name: 'Student Question Management', url: 'https://coursebot-website.vercel.app/resources/ai-student-support-for-online-education/student-question-management' },
       ]}
       title="Student Question Management: Your Complete Guide"
       h1="Student Question Management: Your Complete Guide"

@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'LMS Integration & Technology', url: 'https://coursebot.com/resources/lms-integration-and-technology' },
-        { name: 'Benefits of Automating Teachable Student Support', url: 'https://coursebot.com/resources/lms-integration-and-technology/teachable-integration/benefits-of-automating-teachable-student-support' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'LMS Integration & Technology', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology' },
+        { name: 'Benefits of Automating Teachable Student Support', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology/teachable-integration/benefits-of-automating-teachable-student-support' },
       ]}
       title="Benefits of Automating Teachable Student Support"
       h1="Benefits of Automating Teachable Student Support"

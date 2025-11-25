@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'AI Student Support for Online Education', url: 'https://coursebot.com/resources/ai-student-support-for-online-education' },
-        { name: 'Benefits of Using Chatbots for Course Support', url: 'https://coursebot.com/resources/ai-student-support-for-online-education/course-support-chatbots/benefits-of-using-chatbots-for-course-support' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'AI Student Support for Online Education', url: 'https://coursebot-website.vercel.app/resources/ai-student-support-for-online-education' },
+        { name: 'Benefits of Using Chatbots for Course Support', url: 'https://coursebot-website.vercel.app/resources/ai-student-support-for-online-education/course-support-chatbots/benefits-of-using-chatbots-for-course-support' },
       ]}
       title="Benefits of Using Chatbots for Course Support"
       h1="Benefits of Using Chatbots for Course Support"

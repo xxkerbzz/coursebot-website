@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'AI Student Support for Online Education', url: 'https://coursebot.com/resources/ai-student-support-for-online-education' },
-        { name: 'Best AI FAQ Automation Tools for Online Education', url: 'https://coursebot.com/resources/ai-student-support-for-online-education/ai-faq-automation/best-ai-faq-automation-tools-for-online-education' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'AI Student Support for Online Education', url: 'https://coursebot-website.vercel.app/resources/ai-student-support-for-online-education' },
+        { name: 'Best AI FAQ Automation Tools for Online Education', url: 'https://coursebot-website.vercel.app/resources/ai-student-support-for-online-education/ai-faq-automation/best-ai-faq-automation-tools-for-online-education' },
       ]}
       title="Best AI FAQ Automation Tools for Online Education"
       h1="Best AI FAQ Automation Tools for Online Education"

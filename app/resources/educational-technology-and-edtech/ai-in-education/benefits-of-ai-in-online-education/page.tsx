@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Educational Technology & EdTech', url: 'https://coursebot.com/resources/educational-technology-and-edtech' },
-        { name: 'Benefits of AI in Online Education', url: 'https://coursebot.com/resources/educational-technology-and-edtech/ai-in-education/benefits-of-ai-in-online-education' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Educational Technology & EdTech', url: 'https://coursebot-website.vercel.app/resources/educational-technology-and-edtech' },
+        { name: 'Benefits of AI in Online Education', url: 'https://coursebot-website.vercel.app/resources/educational-technology-and-edtech/ai-in-education/benefits-of-ai-in-online-education' },
       ]}
       title="Benefits of AI in Online Education"
       h1="Benefits of AI in Online Education"

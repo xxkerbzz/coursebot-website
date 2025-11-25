@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Online Course Creation & Teaching', url: 'https://coursebot.com/resources/online-course-creation-and-teaching' },
-        { name: 'Essential Skills for Online Teachers', url: 'https://coursebot.com/resources/online-course-creation-and-teaching/online-teaching-best-practices/essential-skills-for-online-teachers' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Online Course Creation & Teaching', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching' },
+        { name: 'Essential Skills for Online Teachers', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching/online-teaching-best-practices/essential-skills-for-online-teachers' },
       ]}
       title="Essential Skills for Online Teachers"
       h1="Essential Skills for Online Teachers"

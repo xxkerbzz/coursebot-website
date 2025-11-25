@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Educational Technology & EdTech', url: 'https://coursebot.com/resources/educational-technology-and-edtech' },
-        { name: 'How to Choose EdTech Solutions for Your Courses', url: 'https://coursebot.com/resources/educational-technology-and-edtech/edtech-solutions-for-creators/how-to-choose-edtech-solutions-for-your-courses' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Educational Technology & EdTech', url: 'https://coursebot-website.vercel.app/resources/educational-technology-and-edtech' },
+        { name: 'How to Choose EdTech Solutions for Your Courses', url: 'https://coursebot-website.vercel.app/resources/educational-technology-and-edtech/edtech-solutions-for-creators/how-to-choose-edtech-solutions-for-your-courses' },
       ]}
       title="How to Choose EdTech Solutions for Your Courses"
       h1="How to Choose EdTech Solutions for Your Courses"

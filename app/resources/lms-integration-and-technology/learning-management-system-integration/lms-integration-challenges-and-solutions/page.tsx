@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'LMS Integration & Technology', url: 'https://coursebot.com/resources/lms-integration-and-technology' },
-        { name: 'LMS Integration Challenges and Solutions', url: 'https://coursebot.com/resources/lms-integration-and-technology/learning-management-system-integration/lms-integration-challenges-and-solutions' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'LMS Integration & Technology', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology' },
+        { name: 'LMS Integration Challenges and Solutions', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology/learning-management-system-integration/lms-integration-challenges-and-solutions' },
       ]}
       title="LMS Integration Challenges and Solutions"
       h1="LMS Integration Challenges and Solutions"

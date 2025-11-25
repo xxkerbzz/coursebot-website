@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Online Course Creation & Teaching', url: 'https://coursebot.com/resources/online-course-creation-and-teaching' },
-        { name: 'Best Systems for Course Material Organization', url: 'https://coursebot.com/resources/online-course-creation-and-teaching/course-materials-organization/best-systems-for-course-material-organization' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Online Course Creation & Teaching', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching' },
+        { name: 'Best Systems for Course Material Organization', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching/course-materials-organization/best-systems-for-course-material-organization' },
       ]}
       title="Best Systems for Course Material Organization"
       h1="Best Systems for Course Material Organization"

@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Online Course Creation & Teaching', url: 'https://coursebot.com/resources/online-course-creation-and-teaching' },
-        { name: 'Course Content Development Process', url: 'https://coursebot.com/resources/online-course-creation-and-teaching/course-content-development/course-content-development-process' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Online Course Creation & Teaching', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching' },
+        { name: 'Course Content Development Process', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching/course-content-development/course-content-development-process' },
       ]}
       title="Course Content Development Process"
       h1="Course Content Development Process"

@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Educational Technology & EdTech', url: 'https://coursebot.com/resources/educational-technology-and-edtech' },
-        { name: 'How AI Is Transforming Education', url: 'https://coursebot.com/resources/educational-technology-and-edtech/ai-in-education/how-ai-is-transforming-education' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Educational Technology & EdTech', url: 'https://coursebot-website.vercel.app/resources/educational-technology-and-edtech' },
+        { name: 'How AI Is Transforming Education', url: 'https://coursebot-website.vercel.app/resources/educational-technology-and-edtech/ai-in-education/how-ai-is-transforming-education' },
       ]}
       title="How AI Is Transforming Education"
       h1="How AI Is Transforming Education"

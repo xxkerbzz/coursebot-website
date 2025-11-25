@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity' },
-        { name: 'How to Save Time as an Online Course Creator', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity/course-creator-time-management/how-to-save-time-as-online-course-creator' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity' },
+        { name: 'How to Save Time as an Online Course Creator', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity/course-creator-time-management/how-to-save-time-as-online-course-creator' },
       ]}
       title="How to Save Time as an Online Course Creator"
       h1="How to Save Time as an Online Course Creator"

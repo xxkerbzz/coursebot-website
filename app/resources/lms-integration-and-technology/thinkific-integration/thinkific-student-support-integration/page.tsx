@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'LMS Integration & Technology', url: 'https://coursebot.com/resources/lms-integration-and-technology' },
-        { name: 'Thinkific Student Support Integration', url: 'https://coursebot.com/resources/lms-integration-and-technology/thinkific-integration/thinkific-student-support-integration' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'LMS Integration & Technology', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology' },
+        { name: 'Thinkific Student Support Integration', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology/thinkific-integration/thinkific-student-support-integration' },
       ]}
       title="Thinkific Student Support Integration"
       h1="Thinkific Student Support Integration"

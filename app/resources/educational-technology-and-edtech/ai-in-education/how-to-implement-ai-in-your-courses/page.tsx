@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Educational Technology & EdTech', url: 'https://coursebot.com/resources/educational-technology-and-edtech' },
-        { name: 'How to Implement AI in Your Courses', url: 'https://coursebot.com/resources/educational-technology-and-edtech/ai-in-education/how-to-implement-ai-in-your-courses' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Educational Technology & EdTech', url: 'https://coursebot-website.vercel.app/resources/educational-technology-and-edtech' },
+        { name: 'How to Implement AI in Your Courses', url: 'https://coursebot-website.vercel.app/resources/educational-technology-and-edtech/ai-in-education/how-to-implement-ai-in-your-courses' },
       ]}
       title="How to Implement AI in Your Courses"
       h1="How to Implement AI in Your Courses"

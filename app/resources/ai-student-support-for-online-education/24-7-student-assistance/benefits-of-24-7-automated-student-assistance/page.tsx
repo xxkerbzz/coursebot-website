@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'AI Student Support for Online Education', url: 'https://coursebot.com/resources/ai-student-support-for-online-education' },
-        { name: 'Benefits of 24/7 Automated Student Assistance', url: 'https://coursebot.com/resources/ai-student-support-for-online-education/24-7-student-assistance/benefits-of-24-7-automated-student-assistance' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'AI Student Support for Online Education', url: 'https://coursebot-website.vercel.app/resources/ai-student-support-for-online-education' },
+        { name: 'Benefits of 24/7 Automated Student Assistance', url: 'https://coursebot-website.vercel.app/resources/ai-student-support-for-online-education/24-7-student-assistance/benefits-of-24-7-automated-student-assistance' },
       ]}
       title="Benefits of 24/7 Automated Student Assistance"
       h1="Benefits of 24/7 Automated Student Assistance"

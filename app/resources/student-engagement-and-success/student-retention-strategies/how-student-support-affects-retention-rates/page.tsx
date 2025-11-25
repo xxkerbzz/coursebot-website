@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Student Engagement & Success', url: 'https://coursebot.com/resources/student-engagement-and-success' },
-        { name: 'How Student Support Affects Retention Rates', url: 'https://coursebot.com/resources/student-engagement-and-success/student-retention-strategies/how-student-support-affects-retention-rates' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Student Engagement & Success', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success' },
+        { name: 'How Student Support Affects Retention Rates', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success/student-retention-strategies/how-student-support-affects-retention-rates' },
       ]}
       title="How Student Support Affects Retention Rates"
       h1="How Student Support Affects Retention Rates"

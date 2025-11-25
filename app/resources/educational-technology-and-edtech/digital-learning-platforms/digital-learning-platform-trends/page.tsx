@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Educational Technology & EdTech', url: 'https://coursebot.com/resources/educational-technology-and-edtech' },
-        { name: 'Digital Learning Platform Trends', url: 'https://coursebot.com/resources/educational-technology-and-edtech/digital-learning-platforms/digital-learning-platform-trends' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Educational Technology & EdTech', url: 'https://coursebot-website.vercel.app/resources/educational-technology-and-edtech' },
+        { name: 'Digital Learning Platform Trends', url: 'https://coursebot-website.vercel.app/resources/educational-technology-and-edtech/digital-learning-platforms/digital-learning-platform-trends' },
       ]}
       title="Digital Learning Platform Trends"
       h1="Digital Learning Platform Trends"

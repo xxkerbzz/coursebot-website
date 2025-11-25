@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Online Course Creation & Teaching', url: 'https://coursebot.com/resources/online-course-creation-and-teaching' },
-        { name: 'Online Teaching vs In-Person Teaching', url: 'https://coursebot.com/resources/online-course-creation-and-teaching/online-teaching-best-practices/online-teaching-vs-in-person-teaching' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Online Course Creation & Teaching', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching' },
+        { name: 'Online Teaching vs In-Person Teaching', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching/online-teaching-best-practices/online-teaching-vs-in-person-teaching' },
       ]}
       title="Online Teaching vs In-Person Teaching"
       h1="Online Teaching vs In-Person Teaching"

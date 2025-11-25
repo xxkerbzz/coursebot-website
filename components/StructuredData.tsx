@@ -9,8 +9,8 @@ export default function StructuredData({ type, data }: StructuredDataProps) {
         '@context': 'https://schema.org',
         '@type': 'Organization',
         name: 'CourseBot',
-        url: 'https://coursebot.com',
-        logo: 'https://coursebot.com/logo.png',
+        url: 'https://coursebot-website.vercel.app',
+        logo: 'https://coursebot-website.vercel.app/logo.png',
         description: 'AI-powered student support assistant for online educators',
         ...data,
       };
@@ -21,7 +21,7 @@ export default function StructuredData({ type, data }: StructuredDataProps) {
         '@context': 'https://schema.org',
         '@type': 'WebSite',
         name: 'CourseBot',
-        url: 'https://coursebot.com',
+        url: 'https://coursebot-website.vercel.app',
         description: 'AI-powered student support assistant for online educators',
         ...data,
       };

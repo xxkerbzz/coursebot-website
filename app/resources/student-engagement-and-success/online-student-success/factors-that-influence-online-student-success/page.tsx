@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Student Engagement & Success', url: 'https://coursebot.com/resources/student-engagement-and-success' },
-        { name: 'Factors That Influence Online Student Success', url: 'https://coursebot.com/resources/student-engagement-and-success/online-student-success/factors-that-influence-online-student-success' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Student Engagement & Success', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success' },
+        { name: 'Factors That Influence Online Student Success', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success/online-student-success/factors-that-influence-online-student-success' },
       ]}
       title="Factors That Influence Online Student Success"
       h1="Factors That Influence Online Student Success"

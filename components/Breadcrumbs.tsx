@@ -9,7 +9,7 @@ interface BreadcrumbsProps {
 
 export default function Breadcrumbs({ items }: BreadcrumbsProps) {
   const breadcrumbItems = [
-    { name: 'Home', url: 'https://coursebot.com' },
+    { name: 'Home', url: 'https://coursebot-website.vercel.app' },
     ...items,
   ];
 

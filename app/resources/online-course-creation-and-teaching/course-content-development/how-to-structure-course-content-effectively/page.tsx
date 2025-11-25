@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Online Course Creation & Teaching', url: 'https://coursebot.com/resources/online-course-creation-and-teaching' },
-        { name: 'How to Structure Course Content Effectively', url: 'https://coursebot.com/resources/online-course-creation-and-teaching/course-content-development/how-to-structure-course-content-effectively' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Online Course Creation & Teaching', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching' },
+        { name: 'How to Structure Course Content Effectively', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching/course-content-development/how-to-structure-course-content-effectively' },
       ]}
       title="How to Structure Course Content Effectively"
       h1="How to Structure Course Content Effectively"

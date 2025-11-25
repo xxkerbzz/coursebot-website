@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Student Engagement & Success', url: 'https://coursebot.com/resources/student-engagement-and-success' },
-        { name: 'Best Practices for Online Student Achievement', url: 'https://coursebot.com/resources/student-engagement-and-success/online-student-success/best-practices-for-online-student-achievement' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Student Engagement & Success', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success' },
+        { name: 'Best Practices for Online Student Achievement', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success/online-student-success/best-practices-for-online-student-achievement' },
       ]}
       title="Best Practices for Online Student Achievement"
       h1="Best Practices for Online Student Achievement"

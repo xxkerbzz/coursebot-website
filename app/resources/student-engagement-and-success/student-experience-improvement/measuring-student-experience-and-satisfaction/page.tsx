@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Student Engagement & Success', url: 'https://coursebot.com/resources/student-engagement-and-success' },
-        { name: 'Measuring Student Experience and Satisfaction', url: 'https://coursebot.com/resources/student-engagement-and-success/student-experience-improvement/measuring-student-experience-and-satisfaction' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Student Engagement & Success', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success' },
+        { name: 'Measuring Student Experience and Satisfaction', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success/student-experience-improvement/measuring-student-experience-and-satisfaction' },
       ]}
       title="Measuring Student Experience and Satisfaction"
       h1="Measuring Student Experience and Satisfaction"

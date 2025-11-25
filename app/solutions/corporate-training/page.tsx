@@ -9,7 +9,7 @@ export default function CorporateTrainingPage() {
   return (
     <div className="bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <Breadcrumbs items={[{ name: 'Solutions', url: 'https://coursebot.com/solutions' }, { name: 'For Corporate Training', url: 'https://coursebot.com/solutions/corporate-training' }]} />
+        <Breadcrumbs items={[{ name: 'Solutions', url: 'https://coursebot-website.vercel.app/solutions' }, { name: 'For Corporate Training', url: 'https://coursebot-website.vercel.app/solutions/corporate-training' }]} />
         <div className="text-center max-w-4xl mx-auto mb-16">
           <h1 className="text-5xl font-light text-gray-900 mb-6">AI-Powered Support for Corporate Learning Programs</h1>
           <p className="text-xl text-gray-600 font-light mb-8">Support employee training programs at scale with custom branding, enterprise integrations, and 24/7 automated assistance.</p>

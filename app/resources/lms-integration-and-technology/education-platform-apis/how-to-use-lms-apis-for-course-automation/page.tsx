@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'LMS Integration & Technology', url: 'https://coursebot.com/resources/lms-integration-and-technology' },
-        { name: 'How to Use LMS APIs for Course Automation', url: 'https://coursebot.com/resources/lms-integration-and-technology/education-platform-apis/how-to-use-lms-apis-for-course-automation' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'LMS Integration & Technology', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology' },
+        { name: 'How to Use LMS APIs for Course Automation', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology/education-platform-apis/how-to-use-lms-apis-for-course-automation' },
       ]}
       title="How to Use LMS APIs for Course Automation"
       h1="How to Use LMS APIs for Course Automation"

@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'LMS Integration & Technology', url: 'https://coursebot.com/resources/lms-integration-and-technology' },
-        { name: 'Canvas API Integration Guide', url: 'https://coursebot.com/resources/lms-integration-and-technology/canvas-lms-integration/canvas-api-integration-guide' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'LMS Integration & Technology', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology' },
+        { name: 'Canvas API Integration Guide', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology/canvas-lms-integration/canvas-api-integration-guide' },
       ]}
       title="Canvas API Integration Guide"
       h1="Canvas API Integration Guide"

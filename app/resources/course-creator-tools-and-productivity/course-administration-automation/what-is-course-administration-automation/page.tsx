@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity' },
-        { name: 'What Is Course Administration Automation', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity/course-administration-automation/what-is-course-administration-automation' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity' },
+        { name: 'What Is Course Administration Automation', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity/course-administration-automation/what-is-course-administration-automation' },
       ]}
       title="What Is Course Administration Automation"
       h1="What Is Course Administration Automation"

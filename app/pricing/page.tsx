@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'CourseBot Pricing - Starting at $49/month',
     description: 'Affordable pricing that scales with your teaching. Save 10+ hours weekly.',
-    url: 'https://coursebot.com/pricing',
+    url: 'https://coursebot-website.vercel.app/pricing',
   },
 };
 
@@ -75,7 +75,7 @@ export default function PricingPage() {
   return (
     <div className="bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <Breadcrumbs items={[{ name: 'Pricing', url: 'https://coursebot.com/pricing' }]} />
+        <Breadcrumbs items={[{ name: 'Pricing', url: 'https://coursebot-website.vercel.app/pricing' }]} />
 
         {/* Hero */}
         <div className="text-center max-w-4xl mx-auto mb-20">

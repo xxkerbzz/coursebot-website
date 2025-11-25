@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity' },
-        { name: 'Automated vs Manual Student Communication', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity/student-communication-tools/automated-vs-manual-student-communication' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity' },
+        { name: 'Automated vs Manual Student Communication', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity/student-communication-tools/automated-vs-manual-student-communication' },
       ]}
       title="Automated vs Manual Student Communication"
       h1="Automated vs Manual Student Communication"

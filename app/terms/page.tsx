@@ -11,7 +11,7 @@ export default function TermsPage() {
   return (
     <div className="bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <Breadcrumbs items={[{ name: 'Terms of Service', url: 'https://coursebot.com/terms' }]} />
+        <Breadcrumbs items={[{ name: 'Terms of Service', url: 'https://coursebot-website.vercel.app/terms' }]} />
         <div className="max-w-4xl mx-auto">
           <h1 className="text-5xl font-light text-gray-900 mb-6">Terms of Service</h1>
           <p className="text-xl text-gray-600 font-light mb-12">Last updated: November 25, 2025</p>

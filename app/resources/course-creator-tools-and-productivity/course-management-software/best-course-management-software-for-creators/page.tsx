@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity' },
-        { name: 'Best Course Management Software for Creators', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity/course-management-software/best-course-management-software-for-creators' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity' },
+        { name: 'Best Course Management Software for Creators', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity/course-management-software/best-course-management-software-for-creators' },
       ]}
       title="Best Course Management Software for Creators"
       h1="Best Course Management Software for Creators"

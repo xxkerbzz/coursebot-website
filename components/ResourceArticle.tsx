@@ -53,7 +53,7 @@ export default function ResourceArticle({
             name: 'CourseBot',
             logo: {
               '@type': 'ImageObject',
-              url: 'https://coursebot.com/logo.png',
+              url: 'https://coursebot-website.vercel.app/logo.png',
             },
           },
           datePublished: publishDateFormatted,

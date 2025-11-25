@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Student Engagement & Success', url: 'https://coursebot.com/resources/student-engagement-and-success' },
-        { name: 'Benefits of Instant Student Support', url: 'https://coursebot.com/resources/student-engagement-and-success/instant-student-help/benefits-of-instant-student-support' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Student Engagement & Success', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success' },
+        { name: 'Benefits of Instant Student Support', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success/instant-student-help/benefits-of-instant-student-support' },
       ]}
       title="Benefits of Instant Student Support"
       h1="Benefits of Instant Student Support"

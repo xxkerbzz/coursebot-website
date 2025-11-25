@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'AI Student Support for Online Education', url: 'https://coursebot.com/resources/ai-student-support-for-online-education' },
-        { name: 'What Is Automated Student Question Management', url: 'https://coursebot.com/resources/ai-student-support-for-online-education/student-question-management/what-is-automated-student-question-management' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'AI Student Support for Online Education', url: 'https://coursebot-website.vercel.app/resources/ai-student-support-for-online-education' },
+        { name: 'What Is Automated Student Question Management', url: 'https://coursebot-website.vercel.app/resources/ai-student-support-for-online-education/student-question-management/what-is-automated-student-question-management' },
       ]}
       title="What Is Automated Student Question Management"
       h1="What Is Automated Student Question Management"

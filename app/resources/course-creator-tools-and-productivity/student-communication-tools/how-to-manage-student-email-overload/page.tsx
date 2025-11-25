@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity' },
-        { name: 'How to Manage Student Email Overload', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity/student-communication-tools/how-to-manage-student-email-overload' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity' },
+        { name: 'How to Manage Student Email Overload', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity/student-communication-tools/how-to-manage-student-email-overload' },
       ]}
       title="How to Manage Student Email Overload"
       h1="How to Manage Student Email Overload"

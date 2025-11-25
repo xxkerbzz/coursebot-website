@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'LMS Integration & Technology', url: 'https://coursebot.com/resources/lms-integration-and-technology' },
-        { name: 'Best Education Platform APIs for Developers', url: 'https://coursebot.com/resources/lms-integration-and-technology/education-platform-apis/best-education-platform-apis-for-developers' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'LMS Integration & Technology', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology' },
+        { name: 'Best Education Platform APIs for Developers', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology/education-platform-apis/best-education-platform-apis-for-developers' },
       ]}
       title="Best Education Platform APIs for Developers"
       h1="Best Education Platform APIs for Developers"

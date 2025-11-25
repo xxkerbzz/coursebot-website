@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Student Engagement & Success', url: 'https://coursebot.com/resources/student-engagement-and-success' },
-        { name: 'What Makes a Great Online Course Experience', url: 'https://coursebot.com/resources/student-engagement-and-success/student-experience-improvement/what-makes-a-great-online-course-experience' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Student Engagement & Success', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success' },
+        { name: 'What Makes a Great Online Course Experience', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success/student-experience-improvement/what-makes-a-great-online-course-experience' },
       ]}
       title="What Makes a Great Online Course Experience"
       h1="What Makes a Great Online Course Experience"

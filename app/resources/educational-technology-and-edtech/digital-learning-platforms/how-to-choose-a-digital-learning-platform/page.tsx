@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Educational Technology & EdTech', url: 'https://coursebot.com/resources/educational-technology-and-edtech' },
-        { name: 'How to Choose a Digital Learning Platform', url: 'https://coursebot.com/resources/educational-technology-and-edtech/digital-learning-platforms/how-to-choose-a-digital-learning-platform' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Educational Technology & EdTech', url: 'https://coursebot-website.vercel.app/resources/educational-technology-and-edtech' },
+        { name: 'How to Choose a Digital Learning Platform', url: 'https://coursebot-website.vercel.app/resources/educational-technology-and-edtech/digital-learning-platforms/how-to-choose-a-digital-learning-platform' },
       ]}
       title="How to Choose a Digital Learning Platform"
       h1="How to Choose a Digital Learning Platform"

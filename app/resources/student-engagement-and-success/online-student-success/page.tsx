@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Student Engagement & Success', url: 'https://coursebot.com/resources/student-engagement-and-success' },
-        { name: 'Online Student Success', url: 'https://coursebot.com/resources/student-engagement-and-success/online-student-success' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Student Engagement & Success', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success' },
+        { name: 'Online Student Success', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success/online-student-success' },
       ]}
       title="Online Student Success: Your Complete Guide"
       h1="Online Student Success: Your Complete Guide"

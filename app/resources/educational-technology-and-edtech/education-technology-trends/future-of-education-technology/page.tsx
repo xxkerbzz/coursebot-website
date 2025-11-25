@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Educational Technology & EdTech', url: 'https://coursebot.com/resources/educational-technology-and-edtech' },
-        { name: 'Future of Education Technology', url: 'https://coursebot.com/resources/educational-technology-and-edtech/education-technology-trends/future-of-education-technology' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Educational Technology & EdTech', url: 'https://coursebot-website.vercel.app/resources/educational-technology-and-edtech' },
+        { name: 'Future of Education Technology', url: 'https://coursebot-website.vercel.app/resources/educational-technology-and-edtech/education-technology-trends/future-of-education-technology' },
       ]}
       title="Future of Education Technology"
       h1="Future of Education Technology"

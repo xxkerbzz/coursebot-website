@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity' },
-        { name: 'How Much Time Do Course Creators Spend on Admin Tasks', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity/course-creator-time-management/how-much-time-course-creators-spend-on-admin-tasks' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity' },
+        { name: 'How Much Time Do Course Creators Spend on Admin Tasks', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity/course-creator-time-management/how-much-time-course-creators-spend-on-admin-tasks' },
       ]}
       title="How Much Time Do Course Creators Spend on Admin Tasks"
       h1="How Much Time Do Course Creators Spend on Admin Tasks"

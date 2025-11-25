@@ -42,7 +42,7 @@ export function generateMetaTags(seo: SEOData) {
 }
 
 export function generateSitemap(pages: Array<{ url: string; lastmod?: string; changefreq?: string; priority?: number }>) {
-  const baseUrl = 'https://coursebot.com';
+  const baseUrl = 'https://coursebot-website.vercel.app';
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

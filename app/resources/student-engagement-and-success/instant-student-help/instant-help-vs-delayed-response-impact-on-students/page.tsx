@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Student Engagement & Success', url: 'https://coursebot.com/resources/student-engagement-and-success' },
-        { name: 'Instant Help vs Delayed Response Impact on Students', url: 'https://coursebot.com/resources/student-engagement-and-success/instant-student-help/instant-help-vs-delayed-response-impact-on-students' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Student Engagement & Success', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success' },
+        { name: 'Instant Help vs Delayed Response Impact on Students', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success/instant-student-help/instant-help-vs-delayed-response-impact-on-students' },
       ]}
       title="Instant Help vs Delayed Response Impact on Students"
       h1="Instant Help vs Delayed Response Impact on Students"

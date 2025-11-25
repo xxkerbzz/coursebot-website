@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'LMS Integration & Technology', url: 'https://coursebot.com/resources/lms-integration-and-technology' },
-        { name: 'What Are Education Platform APIs', url: 'https://coursebot.com/resources/lms-integration-and-technology/education-platform-apis/what-are-education-platform-apis' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'LMS Integration & Technology', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology' },
+        { name: 'What Are Education Platform APIs', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology/education-platform-apis/what-are-education-platform-apis' },
       ]}
       title="What Are Education Platform APIs"
       h1="What Are Education Platform APIs"

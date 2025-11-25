@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'AI Student Support for Online Education', url: 'https://coursebot.com/resources/ai-student-support-for-online-education' },
-        { name: 'Best Course Support Chatbots for Educators', url: 'https://coursebot.com/resources/ai-student-support-for-online-education/course-support-chatbots/best-course-support-chatbots-for-educators' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'AI Student Support for Online Education', url: 'https://coursebot-website.vercel.app/resources/ai-student-support-for-online-education' },
+        { name: 'Best Course Support Chatbots for Educators', url: 'https://coursebot-website.vercel.app/resources/ai-student-support-for-online-education/course-support-chatbots/best-course-support-chatbots-for-educators' },
       ]}
       title="Best Course Support Chatbots for Educators"
       h1="Best Course Support Chatbots for Educators"

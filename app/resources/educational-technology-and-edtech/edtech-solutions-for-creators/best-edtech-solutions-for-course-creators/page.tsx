@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Educational Technology & EdTech', url: 'https://coursebot.com/resources/educational-technology-and-edtech' },
-        { name: 'Best EdTech Solutions for Course Creators', url: 'https://coursebot.com/resources/educational-technology-and-edtech/edtech-solutions-for-creators/best-edtech-solutions-for-course-creators' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Educational Technology & EdTech', url: 'https://coursebot-website.vercel.app/resources/educational-technology-and-edtech' },
+        { name: 'Best EdTech Solutions for Course Creators', url: 'https://coursebot-website.vercel.app/resources/educational-technology-and-edtech/edtech-solutions-for-creators/best-edtech-solutions-for-course-creators' },
       ]}
       title="Best EdTech Solutions for Course Creators"
       h1="Best EdTech Solutions for Course Creators"

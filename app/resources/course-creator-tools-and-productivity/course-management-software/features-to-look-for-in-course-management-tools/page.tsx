@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity' },
-        { name: 'Features to Look for in Course Management Tools', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity/course-management-software/features-to-look-for-in-course-management-tools' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity' },
+        { name: 'Features to Look for in Course Management Tools', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity/course-management-software/features-to-look-for-in-course-management-tools' },
       ]}
       title="Features to Look for in Course Management Tools"
       h1="Features to Look for in Course Management Tools"

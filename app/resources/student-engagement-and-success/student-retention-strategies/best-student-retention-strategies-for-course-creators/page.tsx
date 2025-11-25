@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Student Engagement & Success', url: 'https://coursebot.com/resources/student-engagement-and-success' },
-        { name: 'Best Student Retention Strategies for Course Creators', url: 'https://coursebot.com/resources/student-engagement-and-success/student-retention-strategies/best-student-retention-strategies-for-course-creators' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Student Engagement & Success', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success' },
+        { name: 'Best Student Retention Strategies for Course Creators', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success/student-retention-strategies/best-student-retention-strategies-for-course-creators' },
       ]}
       title="Best Student Retention Strategies for Course Creators"
       h1="Best Student Retention Strategies for Course Creators"

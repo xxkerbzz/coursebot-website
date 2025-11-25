@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'How CourseBot Works - 3 Simple Steps',
     description: 'From setup to support in 3 simple steps. Get started in 2-3 hours.',
-    url: 'https://coursebot.com/how-it-works',
+    url: 'https://coursebot-website.vercel.app/how-it-works',
   },
 };
 
@@ -45,7 +45,7 @@ export default function HowItWorksPage() {
 
       <div className="bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-          <Breadcrumbs items={[{ name: 'How It Works', url: 'https://coursebot.com/how-it-works' }]} />
+          <Breadcrumbs items={[{ name: 'How It Works', url: 'https://coursebot-website.vercel.app/how-it-works' }]} />
 
           {/* Hero */}
           <div className="text-center max-w-4xl mx-auto mb-20">

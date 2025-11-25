@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Online Course Creation & Teaching', url: 'https://coursebot.com/resources/online-course-creation-and-teaching' },
-        { name: 'How to Become a Better Online Instructor', url: 'https://coursebot.com/resources/online-course-creation-and-teaching/online-teaching-best-practices/how-to-become-a-better-online-instructor' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Online Course Creation & Teaching', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching' },
+        { name: 'How to Become a Better Online Instructor', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching/online-teaching-best-practices/how-to-become-a-better-online-instructor' },
       ]}
       title="How to Become a Better Online Instructor"
       h1="How to Become a Better Online Instructor"

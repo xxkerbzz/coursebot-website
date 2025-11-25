@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Educational Technology & EdTech', url: 'https://coursebot.com/resources/educational-technology-and-edtech' },
-        { name: 'Benefits of Automating Educational Tasks', url: 'https://coursebot.com/resources/educational-technology-and-edtech/educational-automation-tools/benefits-of-automating-educational-tasks' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Educational Technology & EdTech', url: 'https://coursebot-website.vercel.app/resources/educational-technology-and-edtech' },
+        { name: 'Benefits of Automating Educational Tasks', url: 'https://coursebot-website.vercel.app/resources/educational-technology-and-edtech/educational-automation-tools/benefits-of-automating-educational-tasks' },
       ]}
       title="Benefits of Automating Educational Tasks"
       h1="Benefits of Automating Educational Tasks"

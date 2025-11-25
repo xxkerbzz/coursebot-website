@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'LMS Integration & Technology', url: 'https://coursebot.com/resources/lms-integration-and-technology' },
-        { name: 'Thinkific Integration', url: 'https://coursebot.com/resources/lms-integration-and-technology/thinkific-integration' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'LMS Integration & Technology', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology' },
+        { name: 'Thinkific Integration', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology/thinkific-integration' },
       ]}
       title="Thinkific Integration: Your Complete Guide"
       h1="Thinkific Integration: Your Complete Guide"

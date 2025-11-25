@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'LMS Integration & Technology', url: 'https://coursebot.com/resources/lms-integration-and-technology' },
-        { name: 'Best Canvas LMS Support Tools', url: 'https://coursebot.com/resources/lms-integration-and-technology/canvas-lms-integration/best-canvas-lms-support-tools' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'LMS Integration & Technology', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology' },
+        { name: 'Best Canvas LMS Support Tools', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology/canvas-lms-integration/best-canvas-lms-support-tools' },
       ]}
       title="Best Canvas LMS Support Tools"
       h1="Best Canvas LMS Support Tools"

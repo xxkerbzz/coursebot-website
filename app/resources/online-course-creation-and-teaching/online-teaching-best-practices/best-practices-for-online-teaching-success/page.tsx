@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Online Course Creation & Teaching', url: 'https://coursebot.com/resources/online-course-creation-and-teaching' },
-        { name: 'Best Practices for Online Teaching Success', url: 'https://coursebot.com/resources/online-course-creation-and-teaching/online-teaching-best-practices/best-practices-for-online-teaching-success' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Online Course Creation & Teaching', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching' },
+        { name: 'Best Practices for Online Teaching Success', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching/online-teaching-best-practices/best-practices-for-online-teaching-success' },
       ]}
       title="Best Practices for Online Teaching Success"
       h1="Best Practices for Online Teaching Success"

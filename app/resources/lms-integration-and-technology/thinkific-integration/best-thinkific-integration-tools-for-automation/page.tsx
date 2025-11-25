@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'LMS Integration & Technology', url: 'https://coursebot.com/resources/lms-integration-and-technology' },
-        { name: 'Best Thinkific Integration Tools for Automation', url: 'https://coursebot.com/resources/lms-integration-and-technology/thinkific-integration/best-thinkific-integration-tools-for-automation' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'LMS Integration & Technology', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology' },
+        { name: 'Best Thinkific Integration Tools for Automation', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology/thinkific-integration/best-thinkific-integration-tools-for-automation' },
       ]}
       title="Best Thinkific Integration Tools for Automation"
       h1="Best Thinkific Integration Tools for Automation"

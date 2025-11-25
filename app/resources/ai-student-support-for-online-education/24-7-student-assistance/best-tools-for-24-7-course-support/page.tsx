@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'AI Student Support for Online Education', url: 'https://coursebot.com/resources/ai-student-support-for-online-education' },
-        { name: 'Best Tools for 24/7 Course Support', url: 'https://coursebot.com/resources/ai-student-support-for-online-education/24-7-student-assistance/best-tools-for-24-7-course-support' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'AI Student Support for Online Education', url: 'https://coursebot-website.vercel.app/resources/ai-student-support-for-online-education' },
+        { name: 'Best Tools for 24/7 Course Support', url: 'https://coursebot-website.vercel.app/resources/ai-student-support-for-online-education/24-7-student-assistance/best-tools-for-24-7-course-support' },
       ]}
       title="Best Tools for 24/7 Course Support"
       h1="Best Tools for 24/7 Course Support"

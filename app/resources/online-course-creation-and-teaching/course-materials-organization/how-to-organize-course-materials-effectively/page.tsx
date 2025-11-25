@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Online Course Creation & Teaching', url: 'https://coursebot.com/resources/online-course-creation-and-teaching' },
-        { name: 'How to Organize Course Materials Effectively', url: 'https://coursebot.com/resources/online-course-creation-and-teaching/course-materials-organization/how-to-organize-course-materials-effectively' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Online Course Creation & Teaching', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching' },
+        { name: 'How to Organize Course Materials Effectively', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching/course-materials-organization/how-to-organize-course-materials-effectively' },
       ]}
       title="How to Organize Course Materials Effectively"
       h1="How to Organize Course Materials Effectively"

@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity' },
-        { name: 'How to Increase Instructor Productivity', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity/instructor-productivity-tools/how-to-increase-instructor-productivity' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity' },
+        { name: 'How to Increase Instructor Productivity', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity/instructor-productivity-tools/how-to-increase-instructor-productivity' },
       ]}
       title="How to Increase Instructor Productivity"
       h1="How to Increase Instructor Productivity"

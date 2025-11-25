@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Student Engagement & Success', url: 'https://coursebot.com/resources/student-engagement-and-success' },
-        { name: 'How to Improve Student Retention in Online Courses', url: 'https://coursebot.com/resources/student-engagement-and-success/student-retention-strategies/how-to-improve-student-retention-in-online-courses' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Student Engagement & Success', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success' },
+        { name: 'How to Improve Student Retention in Online Courses', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success/student-retention-strategies/how-to-improve-student-retention-in-online-courses' },
       ]}
       title="How to Improve Student Retention in Online Courses"
       h1="How to Improve Student Retention in Online Courses"

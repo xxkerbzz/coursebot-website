@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'AI Student Support for Online Education', url: 'https://coursebot.com/resources/ai-student-support-for-online-education' },
-        { name: 'How 24/7 Support Improves Student Satisfaction', url: 'https://coursebot.com/resources/ai-student-support-for-online-education/24-7-student-assistance/how-24-7-support-improves-student-satisfaction' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'AI Student Support for Online Education', url: 'https://coursebot-website.vercel.app/resources/ai-student-support-for-online-education' },
+        { name: 'How 24/7 Support Improves Student Satisfaction', url: 'https://coursebot-website.vercel.app/resources/ai-student-support-for-online-education/24-7-student-assistance/how-24-7-support-improves-student-satisfaction' },
       ]}
       title="How 24/7 Support Improves Student Satisfaction"
       h1="How 24/7 Support Improves Student Satisfaction"

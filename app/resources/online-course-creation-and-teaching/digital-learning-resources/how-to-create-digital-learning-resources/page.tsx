@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Online Course Creation & Teaching', url: 'https://coursebot.com/resources/online-course-creation-and-teaching' },
-        { name: 'How to Create Digital Learning Resources', url: 'https://coursebot.com/resources/online-course-creation-and-teaching/digital-learning-resources/how-to-create-digital-learning-resources' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Online Course Creation & Teaching', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching' },
+        { name: 'How to Create Digital Learning Resources', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching/digital-learning-resources/how-to-create-digital-learning-resources' },
       ]}
       title="How to Create Digital Learning Resources"
       h1="How to Create Digital Learning Resources"

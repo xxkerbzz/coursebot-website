@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'AI Student Support for Online Education', url: 'https://coursebot.com/resources/ai-student-support-for-online-education' },
-        { name: 'Why 24/7 Student Support Matters for Online Courses', url: 'https://coursebot.com/resources/ai-student-support-for-online-education/24-7-student-assistance/why-24-7-student-support-matters-for-online-courses' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'AI Student Support for Online Education', url: 'https://coursebot-website.vercel.app/resources/ai-student-support-for-online-education' },
+        { name: 'Why 24/7 Student Support Matters for Online Courses', url: 'https://coursebot-website.vercel.app/resources/ai-student-support-for-online-education/24-7-student-assistance/why-24-7-student-support-matters-for-online-courses' },
       ]}
       title="Why 24/7 Student Support Matters for Online Courses"
       h1="Why 24/7 Student Support Matters for Online Courses"

@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Educational Technology & EdTech', url: 'https://coursebot.com/resources/educational-technology-and-edtech' },
-        { name: 'Features of Modern Digital Learning Platforms', url: 'https://coursebot.com/resources/educational-technology-and-edtech/digital-learning-platforms/features-of-modern-digital-learning-platforms' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Educational Technology & EdTech', url: 'https://coursebot-website.vercel.app/resources/educational-technology-and-edtech' },
+        { name: 'Features of Modern Digital Learning Platforms', url: 'https://coursebot-website.vercel.app/resources/educational-technology-and-edtech/digital-learning-platforms/features-of-modern-digital-learning-platforms' },
       ]}
       title="Features of Modern Digital Learning Platforms"
       h1="Features of Modern Digital Learning Platforms"

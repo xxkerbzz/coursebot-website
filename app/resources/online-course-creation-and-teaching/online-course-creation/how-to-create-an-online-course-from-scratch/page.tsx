@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Online Course Creation & Teaching', url: 'https://coursebot.com/resources/online-course-creation-and-teaching' },
-        { name: 'How to Create an Online Course from Scratch', url: 'https://coursebot.com/resources/online-course-creation-and-teaching/online-course-creation/how-to-create-an-online-course-from-scratch' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Online Course Creation & Teaching', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching' },
+        { name: 'How to Create an Online Course from Scratch', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching/online-course-creation/how-to-create-an-online-course-from-scratch' },
       ]}
       title="How to Create an Online Course from Scratch"
       h1="How to Create an Online Course from Scratch"

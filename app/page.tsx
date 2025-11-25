@@ -10,8 +10,8 @@ export default function Home() {
         type="Organization"
         data={{
           name: 'CourseBot',
-          url: 'https://coursebot.com',
-          logo: 'https://coursebot.com/logo.png',
+          url: 'https://coursebot-website.vercel.app',
+          logo: 'https://coursebot-website.vercel.app/logo.png',
           description: 'AI-powered student support assistant for online educators that automatically answers course-related questions',
           sameAs: [
             'https://twitter.com/coursebot',
@@ -23,10 +23,10 @@ export default function Home() {
         type="WebSite"
         data={{
           name: 'CourseBot',
-          url: 'https://coursebot.com',
+          url: 'https://coursebot-website.vercel.app',
           potentialAction: {
             '@type': 'SearchAction',
-            target: 'https://coursebot.com/search?q={search_term_string}',
+            target: 'https://coursebot-website.vercel.app/search?q={search_term_string}',
             'query-input': 'required name=search_term_string',
           },
         }}

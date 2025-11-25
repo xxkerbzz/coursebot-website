@@ -57,7 +57,7 @@ export default function ResourcesPage() {
   return (
     <div className="bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <Breadcrumbs items={[{ name: 'Resources', url: 'https://coursebot.com/resources' }]} />
+        <Breadcrumbs items={[{ name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' }]} />
 
         <div className="max-w-4xl mx-auto mb-16">
           <h1 className="text-5xl font-light text-gray-900 mb-6 text-center">CourseBot Learning Center</h1>

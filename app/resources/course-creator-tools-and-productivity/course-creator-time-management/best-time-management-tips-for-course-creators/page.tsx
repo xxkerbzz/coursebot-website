@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity' },
-        { name: 'Best Time Management Tips for Course Creators', url: 'https://coursebot.com/resources/course-creator-tools-and-productivity/course-creator-time-management/best-time-management-tips-for-course-creators' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Course Creator Tools & Productivity', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity' },
+        { name: 'Best Time Management Tips for Course Creators', url: 'https://coursebot-website.vercel.app/resources/course-creator-tools-and-productivity/course-creator-time-management/best-time-management-tips-for-course-creators' },
       ]}
       title="Best Time Management Tips for Course Creators"
       h1="Best Time Management Tips for Course Creators"

@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Student Engagement & Success', url: 'https://coursebot.com/resources/student-engagement-and-success' },
-        { name: 'Benefits of Automated Student Support Systems', url: 'https://coursebot.com/resources/student-engagement-and-success/student-support-systems/benefits-of-automated-student-support-systems' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Student Engagement & Success', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success' },
+        { name: 'Benefits of Automated Student Support Systems', url: 'https://coursebot-website.vercel.app/resources/student-engagement-and-success/student-support-systems/benefits-of-automated-student-support-systems' },
       ]}
       title="Benefits of Automated Student Support Systems"
       h1="Benefits of Automated Student Support Systems"

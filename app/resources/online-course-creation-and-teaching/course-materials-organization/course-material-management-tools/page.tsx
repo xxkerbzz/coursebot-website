@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'Online Course Creation & Teaching', url: 'https://coursebot.com/resources/online-course-creation-and-teaching' },
-        { name: 'Course Material Management Tools', url: 'https://coursebot.com/resources/online-course-creation-and-teaching/course-materials-organization/course-material-management-tools' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'Online Course Creation & Teaching', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching' },
+        { name: 'Course Material Management Tools', url: 'https://coursebot-website.vercel.app/resources/online-course-creation-and-teaching/course-materials-organization/course-material-management-tools' },
       ]}
       title="Course Material Management Tools"
       h1="Course Material Management Tools"

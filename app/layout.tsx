@@ -4,7 +4,7 @@ import Navigation from '@/components/Navigation';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://coursebot.com'),
+  metadataBase: new URL('https://coursebot-website.vercel.app'),
   title: 'CourseBot - AI Student Support Assistant for Online Educators',
   description: 'Stop answering the same questions. CourseBot gives your students instant 24/7 answers while giving you back 10+ hours every week. Train it once, it handles 80% of questions forever.',
   keywords: ['AI student support', 'course creator tools', 'online education', 'student questions automation', 'LMS integration', 'course support chatbot'],
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://coursebot.com',
+    url: 'https://coursebot-website.vercel.app',
     title: 'CourseBot - AI Student Support Assistant for Online Educators',
     description: 'Stop answering the same questions. CourseBot gives your students instant 24/7 answers while giving you back 10+ hours every week.',
     siteName: 'CourseBot',
@@ -31,6 +31,9 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'CourseBot - AI Student Support Assistant for Online Educators',
     description: 'Stop answering the same questions. CourseBot gives your students instant 24/7 answers while giving you back 10+ hours every week.',
+  },
+  verification: {
+    google: 'iMF6pL1XsIB1fUdWS9JEJrCfYhmFdEKN-gujj1hR2Ck',
   },
 };
 

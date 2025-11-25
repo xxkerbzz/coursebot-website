@@ -11,9 +11,9 @@ export default function Page() {
   return (
     <ResourceArticle
       breadcrumbs={[
-        { name: 'Resources', url: 'https://coursebot.com/resources' },
-        { name: 'LMS Integration & Technology', url: 'https://coursebot.com/resources/lms-integration-and-technology' },
-        { name: 'Thinkific vs Teachable Integration Capabilities', url: 'https://coursebot.com/resources/lms-integration-and-technology/thinkific-integration/thinkific-vs-teachable-integration-capabilities' },
+        { name: 'Resources', url: 'https://coursebot-website.vercel.app/resources' },
+        { name: 'LMS Integration & Technology', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology' },
+        { name: 'Thinkific vs Teachable Integration Capabilities', url: 'https://coursebot-website.vercel.app/resources/lms-integration-and-technology/thinkific-integration/thinkific-vs-teachable-integration-capabilities' },
       ]}
       title="Thinkific vs Teachable Integration Capabilities"
       h1="Thinkific vs Teachable Integration Capabilities"
