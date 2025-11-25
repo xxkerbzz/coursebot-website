@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
-import { FiBrain, FiMessageSquare, FiFilter, FiUploadCloud, FiBarChart2, FiRefreshCw, FiClock, FiLink, FiArrowRight } from 'react-icons/fi';
+import { FiCpu, FiMessageSquare, FiFilter, FiUploadCloud, FiBarChart2, FiRefreshCw, FiClock, FiLink, FiArrowRight } from 'react-icons/fi';
 import Breadcrumbs from '@/components/Breadcrumbs';
 
 export const metadata: Metadata = {
@@ -17,7 +17,7 @@ export const metadata: Metadata = {
 export default function FeaturesPage() {
   const features = [
     {
-      icon: <FiBrain className="w-10 h-10 text-primary" />,
+      icon: <FiCpu className="w-10 h-10 text-primary" />,
       title: 'AI-Powered FAQ System',
       description: 'Trained on your course materials, syllabus, and historical Q&A, CourseBot becomes an expert on your specific course. It understands context, provides accurate answers, and adapts to your teaching style.',
       benefits: [

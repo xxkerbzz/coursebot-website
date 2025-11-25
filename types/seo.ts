@@ -16,6 +16,6 @@ export interface BreadcrumbItem {
 }
 
 export interface StructuredDataProps {
-  type: 'Organization' | 'WebSite' | 'Article' | 'FAQPage' | 'Product' | 'BreadcrumbList' | 'HowTo';
+  type: 'Organization' | 'WebSite' | 'Article' | 'FAQPage' | 'Product' | 'BreadcrumbList' | 'HowTo' | 'ContactPage';
   data: any;
 }
