@@ -215,6 +215,83 @@ export default function Page() {
   </p>
 </section>
 
+      
+      <section className="border-t border-gray-200 pt-12 mb-12">
+        <h3 className="text-2xl font-light text-gray-900 mb-6">Related Articles</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link
+            href="/resources/course-creator-tools-and-productivity/course-creator-time-management/how-to-save-time-as-online-course-creator"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Save Time as an Online Course Creator
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Course creators can save significant time by automating repetitive tasks like answering student questions, batching simi...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/course-creator-tools-and-productivity/course-creator-time-management/best-time-management-tips-for-course-creators"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Best Time Management Tips for Course Creators
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                The best time management tips include time blocking for deep work, prioritizing high-impact activities like content crea...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/course-creator-tools-and-productivity/course-creator-time-management/how-much-time-course-creators-spend-on-admin-tasks"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How Much Time Do Course Creators Spend on Admin Tasks
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Research shows course creators spend 30-50% of their time on administrative tasks, with student question answering consu...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/course-creator-tools-and-productivity/course-creator-time-management/time-saving-tools-for-online-educators"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Time-Saving Tools for Online Educators
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Essential time-saving tools for educators include AI-powered student support systems like CourseBot, content creation to...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/course-creator-tools-and-productivity/course-creator-time-management/how-to-automate-repetitive-course-creator-tasks"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Automate Repetitive Course Creator Tasks
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Start by identifying repetitive tasks like answering common questions, sending course updates, and managing enrollments....
+              </p>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       <section className="bg-gray-50 p-8 rounded-lg mb-12">
         <h3 className="text-xl font-medium text-gray-900 mb-4">Learn More About Course Creator Tools & Productivity</h3>
         <Link href="/resources/course-creator-tools-and-productivity" className="text-primary hover:underline">

@@ -238,6 +238,83 @@ Ask students about their experience with automated support. What worked well? Wh
   </p>
 </section>
 
+      
+      <section className="border-t border-gray-200 pt-12 mb-12">
+        <h3 className="text-2xl font-light text-gray-900 mb-6">Related Articles</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link
+            href="/resources/ai-student-support-for-online-education/ai-learning-assistants/what-are-ai-learning-assistants-for-online-courses"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                What Are AI Learning Assistants for Online Courses
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                AI learning assistants for online courses are intelligent virtual tutors that provide personalized support, answer quest...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/ai-student-support-for-online-education/ai-learning-assistants/how-ai-learning-assistants-help-students"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How AI Learning Assistants Help Students
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                AI learning assistants help students by providing instant answers to questions, offering personalized learning guidance,...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/ai-student-support-for-online-education/ai-learning-assistants/benefits-of-ai-learning-assistants-for-course-creators"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Benefits of AI Learning Assistants for Course Creators
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                AI learning assistants benefit course creators through massive time savings (10+ hours weekly), ability to scale support...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/ai-student-support-for-online-education/ai-learning-assistants/how-to-choose-an-ai-learning-assistant"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Choose an AI Learning Assistant
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Choose an AI learning assistant by evaluating education-specific features, LMS integration capabilities, ease of setup a...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/ai-student-support-for-online-education/ai-learning-assistants/future-of-ai-learning-assistants-in-education"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Future of AI Learning Assistants in Education
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                The future of AI learning assistants includes more sophisticated personalization, advanced natural language understandin...
+              </p>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       <section className="bg-gray-50 p-8 rounded-lg mb-12">
         <h3 className="text-xl font-medium text-gray-900 mb-4">Learn More About AI Student Support for Online Education</h3>
         <Link href="/resources/ai-student-support-for-online-education" className="text-primary hover:underline">

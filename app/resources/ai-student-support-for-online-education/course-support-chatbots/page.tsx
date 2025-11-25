@@ -293,6 +293,83 @@ Ask students about their experience with automated support. What worked well? Wh
   </p>
 </section>
 
+      
+      <section className="border-t border-gray-200 pt-12 mb-12">
+        <h3 className="text-2xl font-light text-gray-900 mb-6">Related Articles</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link
+            href="/resources/ai-student-support-for-online-education/course-support-chatbots/what-are-course-support-chatbots"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                What Are Course Support Chatbots
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Course support chatbots are AI-powered virtual assistants that provide instant answers to student questions about course...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/ai-student-support-for-online-education/course-support-chatbots/how-do-course-support-chatbots-work"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How Do Course Support Chatbots Work
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Course support chatbots work by training on your course materials using AI and natural language processing. When student...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/ai-student-support-for-online-education/course-support-chatbots/benefits-of-using-chatbots-for-course-support"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Benefits of Using Chatbots for Course Support
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Chatbot benefits for course support include 24/7 instant availability, significant instructor time savings (10+ hours we...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/ai-student-support-for-online-education/course-support-chatbots/how-to-implement-a-course-support-chatbot"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Implement a Course Support Chatbot
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Implement a course support chatbot by selecting an education-focused platform like CourseBot, uploading your course mate...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/ai-student-support-for-online-education/course-support-chatbots/best-course-support-chatbots-for-educators"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Best Course Support Chatbots for Educators
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                The best course support chatbots for educators include CourseBot (purpose-built for online courses), Drift (general cust...
+              </p>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       <section className="bg-gray-50 p-8 rounded-lg mb-12">
         <h3 className="text-xl font-medium text-gray-900 mb-4">Learn More About AI Student Support for Online Education</h3>
         <Link href="/resources/ai-student-support-for-online-education" className="text-primary hover:underline">

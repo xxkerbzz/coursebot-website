@@ -155,6 +155,83 @@ export default function Page() {
   </p>
 </section>
 
+      
+      <section className="border-t border-gray-200 pt-12 mb-12">
+        <h3 className="text-2xl font-light text-gray-900 mb-6">Related Articles</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link
+            href="/resources/student-engagement-and-success/instant-student-help/why-instant-student-help-matters"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Why Instant Student Help Matters
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Instant student help matters because online learners study across different time zones and schedules, expecting immediat...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/student-engagement-and-success/instant-student-help/how-to-provide-instant-help-to-online-students"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Provide Instant Help to Online Students
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Provide instant help by implementing AI-powered chatbots like CourseBot for 24/7 automated responses, creating comprehen...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/student-engagement-and-success/instant-student-help/benefits-of-instant-student-support"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Benefits of Instant Student Support
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Instant student support delivers immediate problem resolution, maintains learning momentum, reduces student frustration ...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/student-engagement-and-success/instant-student-help/best-tools-for-instant-student-assistance"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Best Tools for Instant Student Assistance
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Best tools for instant student assistance include AI-powered chatbots like CourseBot (specialized for courses), help des...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/student-engagement-and-success/instant-student-help/instant-help-vs-delayed-response-impact-on-students"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Instant Help vs Delayed Response Impact on Students
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Instant help dramatically improves student outcomes compared to delayed responses. Studies show students receiving insta...
+              </p>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       <section className="bg-gray-50 p-8 rounded-lg mb-12">
         <h3 className="text-xl font-medium text-gray-900 mb-4">Learn More About Student Engagement & Success</h3>
         <Link href="/resources/student-engagement-and-success" className="text-primary hover:underline">

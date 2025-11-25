@@ -281,6 +281,83 @@ Ask students about their experience with automated support. What worked well? Wh
   </p>
 </section>
 
+      
+      <section className="border-t border-gray-200 pt-12 mb-12">
+        <h3 className="text-2xl font-light text-gray-900 mb-6">Related Articles</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link
+            href="/resources/course-creator-tools-and-productivity/student-communication-tools/best-student-communication-tools-for-course-creators"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Best Student Communication Tools for Course Creators
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                The best student communication tools include AI-powered Q&A systems like CourseBot for instant support, discussion platf...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/course-creator-tools-and-productivity/student-communication-tools/how-to-improve-student-communication-efficiency"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Improve Student Communication Efficiency
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Improve communication efficiency by setting clear expectations, creating comprehensive FAQs, implementing AI-powered aut...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/course-creator-tools-and-productivity/student-communication-tools/what-are-the-best-tools-for-answering-student-questions"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                What Are the Best Tools for Answering Student Questions
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                The best tools for answering student questions include AI-powered systems like CourseBot that provide instant automated ...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/course-creator-tools-and-productivity/student-communication-tools/how-to-manage-student-email-overload"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Manage Student Email Overload
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Manage student email overload by implementing automated Q&A tools like CourseBot to handle common questions, creating re...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/course-creator-tools-and-productivity/student-communication-tools/automated-vs-manual-student-communication"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Automated vs Manual Student Communication
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Automated communication excels for routine questions, FAQs, and instant responses, while manual communication is better ...
+              </p>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       <section className="bg-gray-50 p-8 rounded-lg mb-12">
         <h3 className="text-xl font-medium text-gray-900 mb-4">Learn More About Course Creator Tools & Productivity</h3>
         <Link href="/resources/course-creator-tools-and-productivity" className="text-primary hover:underline">

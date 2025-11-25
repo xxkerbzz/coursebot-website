@@ -221,6 +221,83 @@ export default function Page() {
   </p>
 </section>
 
+      
+      <section className="border-t border-gray-200 pt-12 mb-12">
+        <h3 className="text-2xl font-light text-gray-900 mb-6">Related Articles</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link
+            href="/resources/educational-technology-and-edtech/education-technology-trends/top-education-technology-trends"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Top Education Technology Trends
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Top education technology trends include AI-powered tools for support and personalization, adaptive learning systems, imm...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/educational-technology-and-edtech/education-technology-trends/future-of-education-technology"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Future of Education Technology
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                The future of education technology includes sophisticated AI tutors, fully immersive virtual learning, universal educati...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/educational-technology-and-edtech/education-technology-trends/how-edtech-trends-affect-course-creators"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How EdTech Trends Affect Course Creators
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                EdTech trends affect course creators through rising student expectations for instant support and personalization, increa...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/educational-technology-and-edtech/education-technology-trends/emerging-technologies-in-education"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Emerging Technologies in Education
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Emerging technologies in education include advanced AI for personalized learning, extended reality for immersive experie...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/educational-technology-and-edtech/education-technology-trends/education-technology-market-growth"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Education Technology Market Growth
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                The education technology market is experiencing rapid growth, projected to reach $400+ billion by 2026, driven by online...
+              </p>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       <section className="bg-gray-50 p-8 rounded-lg mb-12">
         <h3 className="text-xl font-medium text-gray-900 mb-4">Learn More About Educational Technology & EdTech</h3>
         <Link href="/resources/educational-technology-and-edtech" className="text-primary hover:underline">

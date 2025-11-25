@@ -287,6 +287,83 @@ Ask students about their experience with automated support. What worked well? Wh
   </p>
 </section>
 
+      
+      <section className="border-t border-gray-200 pt-12 mb-12">
+        <h3 className="text-2xl font-light text-gray-900 mb-6">Related Articles</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link
+            href="/resources/online-course-creation-and-teaching/online-teaching-best-practices/best-practices-for-online-teaching-success"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Best Practices for Online Teaching Success
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Best practices for online teaching success include setting clear expectations from the start, maintaining regular and va...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/online-course-creation-and-teaching/online-teaching-best-practices/how-to-become-a-better-online-instructor"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Become a Better Online Instructor
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Become a better online instructor by mastering teaching technology and tools, developing clear and engaging communicatio...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/online-course-creation-and-teaching/online-teaching-best-practices/online-teaching-vs-in-person-teaching"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Online Teaching vs In-Person Teaching
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Online teaching differs from in-person teaching in delivery method, student interaction, flexibility, and scalability. O...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/online-course-creation-and-teaching/online-teaching-best-practices/essential-skills-for-online-teachers"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Essential Skills for Online Teachers
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Essential skills for online teachers include technical proficiency with digital tools, clear written and video communica...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/online-course-creation-and-teaching/online-teaching-best-practices/how-to-engage-students-in-online-learning"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Engage Students in Online Learning
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Engage students in online learning by creating interactive content with activities and assessments, fostering community ...
+              </p>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       <section className="bg-gray-50 p-8 rounded-lg mb-12">
         <h3 className="text-xl font-medium text-gray-900 mb-4">Learn More About Online Course Creation & Teaching</h3>
         <Link href="/resources/online-course-creation-and-teaching" className="text-primary hover:underline">

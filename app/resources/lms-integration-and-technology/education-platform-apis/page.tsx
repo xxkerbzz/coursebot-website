@@ -287,6 +287,83 @@ Ask students about their experience with automated support. What worked well? Wh
   </p>
 </section>
 
+      
+      <section className="border-t border-gray-200 pt-12 mb-12">
+        <h3 className="text-2xl font-light text-gray-900 mb-6">Related Articles</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link
+            href="/resources/lms-integration-and-technology/education-platform-apis/what-are-education-platform-apis"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                What Are Education Platform APIs
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Education platform APIs are interfaces that allow different software systems to communicate and share data. They enable ...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/lms-integration-and-technology/education-platform-apis/how-to-use-lms-apis-for-course-automation"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Use LMS APIs for Course Automation
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Use LMS APIs for course automation by connecting your LMS with automation tools that handle student support, enrollment,...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/lms-integration-and-technology/education-platform-apis/best-education-platform-apis-for-developers"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Best Education Platform APIs for Developers
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Best education platform APIs for developers include Canvas API (comprehensive REST API), Moodle Web Services (extensive ...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/lms-integration-and-technology/education-platform-apis/api-integration-for-course-creator-tools"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                API Integration for Course Creator Tools
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                API integration for course creator tools enables seamless data flow between your LMS and productivity tools. Benefits in...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/lms-integration-and-technology/education-platform-apis/understanding-lms-api-documentation"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Understanding LMS API Documentation
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                LMS API documentation explains available endpoints, request methods, parameters, authentication requirements, and respon...
+              </p>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       <section className="bg-gray-50 p-8 rounded-lg mb-12">
         <h3 className="text-xl font-medium text-gray-900 mb-4">Learn More About LMS Integration & Technology</h3>
         <Link href="/resources/lms-integration-and-technology" className="text-primary hover:underline">

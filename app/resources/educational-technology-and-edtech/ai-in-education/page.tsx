@@ -266,6 +266,83 @@ Ask students about their experience with automated support. What worked well? Wh
   </p>
 </section>
 
+      
+      <section className="border-t border-gray-200 pt-12 mb-12">
+        <h3 className="text-2xl font-light text-gray-900 mb-6">Related Articles</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link
+            href="/resources/educational-technology-and-edtech/ai-in-education/how-ai-is-transforming-education"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How AI Is Transforming Education
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                AI is transforming education through personalized learning experiences, 24/7 automated student support, intelligent asse...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/educational-technology-and-edtech/ai-in-education/benefits-of-ai-in-online-education"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Benefits of AI in Online Education
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                AI benefits online education by providing instant 24/7 student support, enabling personalized learning paths, saving ins...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/educational-technology-and-edtech/ai-in-education/best-ai-tools-for-educators"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Best AI Tools for Educators
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Best AI tools for educators include CourseBot for student support, ChatGPT for content assistance, Gradescope for gradin...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/educational-technology-and-edtech/ai-in-education/future-of-ai-in-education"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Future of AI in Education
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                The future of AI in education includes more sophisticated personalization, advanced natural language understanding, virt...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/educational-technology-and-edtech/ai-in-education/how-to-implement-ai-in-your-courses"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Implement AI in Your Courses
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Implement AI in courses by identifying high-impact areas like student support, selecting appropriate AI tools with prove...
+              </p>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       <section className="bg-gray-50 p-8 rounded-lg mb-12">
         <h3 className="text-xl font-medium text-gray-900 mb-4">Learn More About Educational Technology & EdTech</h3>
         <Link href="/resources/educational-technology-and-edtech" className="text-primary hover:underline">

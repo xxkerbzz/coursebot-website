@@ -260,6 +260,83 @@ Ask students about their experience with automated support. What worked well? Wh
   </p>
 </section>
 
+      
+      <section className="border-t border-gray-200 pt-12 mb-12">
+        <h3 className="text-2xl font-light text-gray-900 mb-6">Related Articles</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link
+            href="/resources/educational-technology-and-edtech/educational-automation-tools/what-are-educational-automation-tools"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                What Are Educational Automation Tools
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Educational automation tools use technology to handle repetitive tasks automatically, including student question answeri...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/educational-technology-and-edtech/educational-automation-tools/best-educational-automation-tools-for-teachers"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Best Educational Automation Tools for Teachers
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Best educational automation tools for teachers include CourseBot for student support, Gradescope for grading, email auto...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/educational-technology-and-edtech/educational-automation-tools/how-educational-automation-improves-teaching"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How Educational Automation Improves Teaching
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Educational automation improves teaching by freeing time for content creation and personalized instruction, ensuring con...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/educational-technology-and-edtech/educational-automation-tools/benefits-of-automating-educational-tasks"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Benefits of Automating Educational Tasks
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Benefits of automating educational tasks include 15-25 hours saved weekly, consistent delivery of support and feedback, ...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/educational-technology-and-edtech/educational-automation-tools/educational-automation-roi-for-course-creators"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Educational Automation ROI for Course Creators
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Educational automation typically delivers 300-500% ROI through time savings (10+ hours weekly worth $500-1000+), improve...
+              </p>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       <section className="bg-gray-50 p-8 rounded-lg mb-12">
         <h3 className="text-xl font-medium text-gray-900 mb-4">Learn More About Educational Technology & EdTech</h3>
         <Link href="/resources/educational-technology-and-edtech" className="text-primary hover:underline">

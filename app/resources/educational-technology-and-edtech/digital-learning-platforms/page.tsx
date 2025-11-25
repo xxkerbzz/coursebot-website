@@ -302,6 +302,83 @@ Ask students about their experience with automated support. What worked well? Wh
   </p>
 </section>
 
+      
+      <section className="border-t border-gray-200 pt-12 mb-12">
+        <h3 className="text-2xl font-light text-gray-900 mb-6">Related Articles</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link
+            href="/resources/educational-technology-and-edtech/digital-learning-platforms/best-digital-learning-platforms-for-course-creators"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Best Digital Learning Platforms for Course Creators
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Best digital learning platforms for course creators include Teachable and Thinkific for independent creators, Canvas and...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/educational-technology-and-edtech/digital-learning-platforms/how-to-choose-a-digital-learning-platform"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Choose a Digital Learning Platform
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Choose a digital learning platform by defining specific requirements, evaluating essential features like student support...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/educational-technology-and-edtech/digital-learning-platforms/digital-learning-platform-comparison"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Digital Learning Platform Comparison
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Digital learning platform comparison shows Teachable and Thinkific lead for independent creators, Canvas for universitie...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/educational-technology-and-edtech/digital-learning-platforms/features-of-modern-digital-learning-platforms"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Features of Modern Digital Learning Platforms
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Modern digital learning platforms feature multimedia content delivery, interactive engagement tools, comprehensive asses...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/educational-technology-and-edtech/digital-learning-platforms/digital-learning-platform-trends"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Digital Learning Platform Trends
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Digital learning platform trends include increased AI integration for support and personalization, mobile-first design, ...
+              </p>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       <section className="bg-gray-50 p-8 rounded-lg mb-12">
         <h3 className="text-xl font-medium text-gray-900 mb-4">Learn More About Educational Technology & EdTech</h3>
         <Link href="/resources/educational-technology-and-edtech" className="text-primary hover:underline">

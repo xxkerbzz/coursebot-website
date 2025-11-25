@@ -260,6 +260,83 @@ Ask students about their experience with automated support. What worked well? Wh
   </p>
 </section>
 
+      
+      <section className="border-t border-gray-200 pt-12 mb-12">
+        <h3 className="text-2xl font-light text-gray-900 mb-6">Related Articles</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link
+            href="/resources/lms-integration-and-technology/learning-management-system-integration/what-is-lms-integration"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                What Is LMS Integration
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                LMS integration connects external tools and services with your learning management system, enabling seamless data flow a...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/lms-integration-and-technology/learning-management-system-integration/how-to-integrate-ai-tools-with-your-lms"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Integrate AI Tools with Your LMS
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                To integrate AI tools with your LMS, first verify API access and compatibility, choose an integration-ready AI tool like...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/lms-integration-and-technology/learning-management-system-integration/benefits-of-lms-integration-for-course-creators"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Benefits of LMS Integration for Course Creators
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                LMS integration benefits include streamlined workflows by eliminating platform switching, enhanced student experience th...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/lms-integration-and-technology/learning-management-system-integration/best-practices-for-lms-integration"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Best Practices for LMS Integration
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Best practices for LMS integration include planning your integration strategy based on specific needs, choosing tools wi...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/lms-integration-and-technology/learning-management-system-integration/lms-integration-challenges-and-solutions"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                LMS Integration Challenges and Solutions
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Common LMS integration challenges include API compatibility issues, data synchronization delays, authentication complexi...
+              </p>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       <section className="bg-gray-50 p-8 rounded-lg mb-12">
         <h3 className="text-xl font-medium text-gray-900 mb-4">Learn More About LMS Integration & Technology</h3>
         <Link href="/resources/lms-integration-and-technology" className="text-primary hover:underline">

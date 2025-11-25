@@ -221,6 +221,83 @@ export default function Page() {
   </p>
 </section>
 
+      
+      <section className="border-t border-gray-200 pt-12 mb-12">
+        <h3 className="text-2xl font-light text-gray-900 mb-6">Related Articles</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link
+            href="/resources/course-creator-tools-and-productivity/instructor-productivity-tools/best-productivity-tools-for-online-instructors"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Best Productivity Tools for Online Instructors
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Top productivity tools for instructors include AI-powered student support systems like CourseBot, content creation tools...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/course-creator-tools-and-productivity/instructor-productivity-tools/how-to-increase-instructor-productivity"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Increase Instructor Productivity
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Increase instructor productivity by identifying time-consuming tasks, automating repetitive activities like student ques...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/course-creator-tools-and-productivity/instructor-productivity-tools/top-10-tools-every-course-creator-needs"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Top 10 Tools Every Course Creator Needs
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Every course creator needs: 1) AI student support (CourseBot), 2) an LMS platform, 3) content creation tools, 4) video r...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/course-creator-tools-and-productivity/instructor-productivity-tools/how-productivity-tools-improve-course-quality"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How Productivity Tools Improve Course Quality
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Productivity tools improve course quality by freeing up time for content creation, enabling better student support throu...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/course-creator-tools-and-productivity/instructor-productivity-tools/roi-of-instructor-productivity-tools"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                ROI of Instructor Productivity Tools
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Productivity tools typically deliver 300-500% ROI through time savings, improved student satisfaction, and scalability. ...
+              </p>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       <section className="bg-gray-50 p-8 rounded-lg mb-12">
         <h3 className="text-xl font-medium text-gray-900 mb-4">Learn More About Course Creator Tools & Productivity</h3>
         <Link href="/resources/course-creator-tools-and-productivity" className="text-primary hover:underline">

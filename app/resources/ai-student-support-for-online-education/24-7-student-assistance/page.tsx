@@ -238,6 +238,83 @@ Ask students about their experience with automated support. What worked well? Wh
   </p>
 </section>
 
+      
+      <section className="border-t border-gray-200 pt-12 mb-12">
+        <h3 className="text-2xl font-light text-gray-900 mb-6">Related Articles</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link
+            href="/resources/ai-student-support-for-online-education/24-7-student-assistance/why-24-7-student-support-matters-for-online-courses"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Why 24/7 Student Support Matters for Online Courses
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                24/7 student support matters because online learners study across different time zones and schedules, expecting immediat...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/ai-student-support-for-online-education/24-7-student-assistance/how-to-provide-24-7-student-support-without-burnout"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Provide 24/7 Student Support Without Burnout
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Provide 24/7 student support without burnout by implementing AI-powered automation that handles routine questions instan...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/ai-student-support-for-online-education/24-7-student-assistance/benefits-of-24-7-automated-student-assistance"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Benefits of 24/7 Automated Student Assistance
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                24/7 automated student assistance delivers instant answers regardless of time or timezone, dramatically improves student...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/ai-student-support-for-online-education/24-7-student-assistance/best-tools-for-24-7-course-support"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Best Tools for 24/7 Course Support
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                The best tools for 24/7 course support include CourseBot (AI-powered course assistant), Intercom (business messaging), Z...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/ai-student-support-for-online-education/24-7-student-assistance/how-24-7-support-improves-student-satisfaction"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How 24/7 Support Improves Student Satisfaction
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                24/7 support improves student satisfaction by eliminating frustrating wait times for answers, respecting diverse learnin...
+              </p>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       <section className="bg-gray-50 p-8 rounded-lg mb-12">
         <h3 className="text-xl font-medium text-gray-900 mb-4">Learn More About AI Student Support for Online Education</h3>
         <Link href="/resources/ai-student-support-for-online-education" className="text-primary hover:underline">

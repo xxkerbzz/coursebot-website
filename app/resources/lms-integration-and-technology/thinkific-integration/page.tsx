@@ -260,6 +260,83 @@ Ask students about their experience with automated support. What worked well? Wh
   </p>
 </section>
 
+      
+      <section className="border-t border-gray-200 pt-12 mb-12">
+        <h3 className="text-2xl font-light text-gray-900 mb-6">Related Articles</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link
+            href="/resources/lms-integration-and-technology/thinkific-integration/how-to-add-ai-support-to-thinkific-courses"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Add AI Support to Thinkific Courses
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Add AI support to Thinkific by choosing an AI assistant compatible with Thinkific like CourseBot, integrating via embed ...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/lms-integration-and-technology/thinkific-integration/best-thinkific-integration-tools-for-automation"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Best Thinkific Integration Tools for Automation
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                The best Thinkific integration tools for automation include CourseBot for AI student support, Zapier for workflow automa...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/lms-integration-and-technology/thinkific-integration/thinkific-student-support-integration"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Thinkific Student Support Integration
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Integrate student support on Thinkific by adding AI-powered Q&A tools like CourseBot, setting up help desk systems, crea...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/lms-integration-and-technology/thinkific-integration/how-to-set-up-chatbots-on-thinkific"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Set Up Chatbots on Thinkific
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Set up a chatbot on Thinkific by selecting a chatbot tool like CourseBot, accessing your Thinkific site code or integrat...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/lms-integration-and-technology/thinkific-integration/thinkific-vs-teachable-integration-capabilities"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Thinkific vs Teachable Integration Capabilities
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Both Thinkific and Teachable offer robust integration capabilities. Thinkific provides more customization through code e...
+              </p>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       <section className="bg-gray-50 p-8 rounded-lg mb-12">
         <h3 className="text-xl font-medium text-gray-900 mb-4">Learn More About LMS Integration & Technology</h3>
         <Link href="/resources/lms-integration-and-technology" className="text-primary hover:underline">

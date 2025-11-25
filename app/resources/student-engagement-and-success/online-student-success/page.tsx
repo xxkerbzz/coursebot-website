@@ -149,6 +149,83 @@ export default function Page() {
   </p>
 </section>
 
+      
+      <section className="border-t border-gray-200 pt-12 mb-12">
+        <h3 className="text-2xl font-light text-gray-900 mb-6">Related Articles</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link
+            href="/resources/student-engagement-and-success/online-student-success/what-is-online-student-success"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                What Is Online Student Success
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Online student success encompasses course completion, learning objective achievement, skill acquisition, confidence deve...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/student-engagement-and-success/online-student-success/factors-that-influence-online-student-success"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Factors That Influence Online Student Success
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Factors influencing online student success include course design quality, instructor engagement, support system effectiv...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/student-engagement-and-success/online-student-success/how-to-support-online-student-success"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Support Online Student Success
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Support online student success by providing excellent instant support through AI automation, creating clear learning pat...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/student-engagement-and-success/online-student-success/best-practices-for-online-student-achievement"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Best Practices for Online Student Achievement
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Best practices for online student achievement include implementing AI-powered instant support, designing for multiple le...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/student-engagement-and-success/online-student-success/tools-that-improve-online-student-success"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Tools That Improve Online Student Success
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Tools that improve online student success include AI-powered support systems like CourseBot (reduces barriers to progres...
+              </p>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       <section className="bg-gray-50 p-8 rounded-lg mb-12">
         <h3 className="text-xl font-medium text-gray-900 mb-4">Learn More About Student Engagement & Success</h3>
         <Link href="/resources/student-engagement-and-success" className="text-primary hover:underline">

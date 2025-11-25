@@ -260,6 +260,83 @@ Ask students about their experience with automated support. What worked well? Wh
   </p>
 </section>
 
+      
+      <section className="border-t border-gray-200 pt-12 mb-12">
+        <h3 className="text-2xl font-light text-gray-900 mb-6">Related Articles</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link
+            href="/resources/lms-integration-and-technology/teachable-integration/how-to-integrate-ai-support-with-teachable"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Integrate AI Support with Teachable
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                To integrate AI support with Teachable, select an AI tool with Teachable compatibility like CourseBot, access your Teach...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/lms-integration-and-technology/teachable-integration/best-teachable-integration-tools"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Best Teachable Integration Tools
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                The best Teachable integration tools include CourseBot for AI-powered student support, ConvertKit for email marketing, Z...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/lms-integration-and-technology/teachable-integration/teachable-ai-chatbot-integration-guide"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Teachable AI Chatbot Integration Guide
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                To add an AI chatbot to Teachable, choose a chatbot platform designed for education like CourseBot, integrate using embe...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/lms-integration-and-technology/teachable-integration/benefits-of-automating-teachable-student-support"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Benefits of Automating Teachable Student Support
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Automating Teachable student support provides 24/7 instant answers, saves 10+ hours weekly on repetitive questions, impr...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/lms-integration-and-technology/teachable-integration/teachable-api-integration-for-course-creators"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Teachable API Integration for Course Creators
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Teachable's API allows integration with external tools for student management, course data access, and automation. Acces...
+              </p>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       <section className="bg-gray-50 p-8 rounded-lg mb-12">
         <h3 className="text-xl font-medium text-gray-900 mb-4">Learn More About LMS Integration & Technology</h3>
         <Link href="/resources/lms-integration-and-technology" className="text-primary hover:underline">

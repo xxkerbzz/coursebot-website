@@ -254,6 +254,83 @@ Ask students about their experience with automated support. What worked well? Wh
   </p>
 </section>
 
+      
+      <section className="border-t border-gray-200 pt-12 mb-12">
+        <h3 className="text-2xl font-light text-gray-900 mb-6">Related Articles</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link
+            href="/resources/online-course-creation-and-teaching/digital-learning-resources/what-are-digital-learning-resources"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                What Are Digital Learning Resources
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Digital learning resources are electronic materials used in education, including videos, interactive modules, e-books, s...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/online-course-creation-and-teaching/digital-learning-resources/best-digital-learning-resources-for-course-creators"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Best Digital Learning Resources for Course Creators
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Best digital learning resources for course creators include YouTube and Vimeo for video hosting, H5P and Articulate for ...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/online-course-creation-and-teaching/digital-learning-resources/how-to-create-digital-learning-resources"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Create Digital Learning Resources
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Create digital learning resources by planning content that aligns with learning objectives, choosing appropriate formats...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/online-course-creation-and-teaching/digital-learning-resources/types-of-digital-learning-resources"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Types of Digital Learning Resources
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Types of digital learning resources include video lessons and podcasts for audiovisual learning, interactive modules and...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/online-course-creation-and-teaching/digital-learning-resources/how-to-choose-digital-learning-resources"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Choose Digital Learning Resources
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Choose digital learning resources by ensuring alignment with learning objectives, evaluating quality and credibility of ...
+              </p>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       <section className="bg-gray-50 p-8 rounded-lg mb-12">
         <h3 className="text-xl font-medium text-gray-900 mb-4">Learn More About Online Course Creation & Teaching</h3>
         <Link href="/resources/online-course-creation-and-teaching" className="text-primary hover:underline">

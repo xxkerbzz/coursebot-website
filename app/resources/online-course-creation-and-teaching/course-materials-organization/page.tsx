@@ -293,6 +293,83 @@ Ask students about their experience with automated support. What worked well? Wh
   </p>
 </section>
 
+      
+      <section className="border-t border-gray-200 pt-12 mb-12">
+        <h3 className="text-2xl font-light text-gray-900 mb-6">Related Articles</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link
+            href="/resources/online-course-creation-and-teaching/course-materials-organization/how-to-organize-course-materials-effectively"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Organize Course Materials Effectively
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Organize course materials effectively by creating a logical folder structure mirroring your course outline, using consis...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/online-course-creation-and-teaching/course-materials-organization/best-systems-for-course-material-organization"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Best Systems for Course Material Organization
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Best systems for course material organization include cloud storage (Google Drive, Dropbox), LMS platforms (Teachable, C...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/online-course-creation-and-teaching/course-materials-organization/course-material-management-tools"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Course Material Management Tools
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Course material management tools include Google Workspace for documents, Adobe Creative Cloud for assets, Git for versio...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/online-course-creation-and-teaching/course-materials-organization/how-organization-affects-student-learning"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How Organization Affects Student Learning
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Course material organization significantly affects student learning by reducing cognitive load, decreasing confusion and...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/online-course-creation-and-teaching/course-materials-organization/digital-course-material-organization-tips"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Digital Course Material Organization Tips
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Digital course material organization tips include using a modular structure that mirrors your course, creating master te...
+              </p>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       <section className="bg-gray-50 p-8 rounded-lg mb-12">
         <h3 className="text-xl font-medium text-gray-900 mb-4">Learn More About Online Course Creation & Teaching</h3>
         <Link href="/resources/online-course-creation-and-teaching" className="text-primary hover:underline">

@@ -260,6 +260,83 @@ Ask students about their experience with automated support. What worked well? Wh
   </p>
 </section>
 
+      
+      <section className="border-t border-gray-200 pt-12 mb-12">
+        <h3 className="text-2xl font-light text-gray-900 mb-6">Related Articles</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link
+            href="/resources/educational-technology-and-edtech/edtech-solutions-for-creators/best-edtech-solutions-for-course-creators"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Best EdTech Solutions for Course Creators
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Best edtech solutions for course creators include AI-powered student support (CourseBot), LMS platforms (Teachable, Canv...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/educational-technology-and-edtech/edtech-solutions-for-creators/how-to-choose-edtech-solutions-for-your-courses"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Choose EdTech Solutions for Your Courses
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Choose edtech solutions by defining specific needs and goals, evaluating features against requirements, ensuring integra...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/educational-technology-and-edtech/edtech-solutions-for-creators/edtech-tools-every-course-creator-needs"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                EdTech Tools Every Course Creator Needs
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Every course creator needs AI-powered student support (CourseBot), an LMS platform, content creation tools, video record...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/educational-technology-and-edtech/edtech-solutions-for-creators/benefits-of-edtech-for-independent-educators"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Benefits of EdTech for Independent Educators
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                EdTech benefits independent educators through significant time savings, ability to scale without hiring, improved studen...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/educational-technology-and-edtech/edtech-solutions-for-creators/edtech-solutions-vs-traditional-course-tools"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                EdTech Solutions vs Traditional Course Tools
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                EdTech solutions offer automation, scalability, data insights, and 24/7 availability that traditional tools cannot match...
+              </p>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       <section className="bg-gray-50 p-8 rounded-lg mb-12">
         <h3 className="text-xl font-medium text-gray-900 mb-4">Learn More About Educational Technology & EdTech</h3>
         <Link href="/resources/educational-technology-and-edtech" className="text-primary hover:underline">

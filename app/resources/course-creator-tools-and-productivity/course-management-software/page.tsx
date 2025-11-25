@@ -302,6 +302,83 @@ Ask students about their experience with automated support. What worked well? Wh
   </p>
 </section>
 
+      
+      <section className="border-t border-gray-200 pt-12 mb-12">
+        <h3 className="text-2xl font-light text-gray-900 mb-6">Related Articles</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link
+            href="/resources/course-creator-tools-and-productivity/course-management-software/what-is-course-management-software"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                What Is Course Management Software
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Course management software helps educators organize, deliver, and manage their courses, including content organization, ...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/course-creator-tools-and-productivity/course-management-software/best-course-management-software-for-creators"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Best Course Management Software for Creators
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                The best course management software includes comprehensive LMS platforms like Teachable and Thinkific, specialized tools...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/course-creator-tools-and-productivity/course-management-software/how-to-choose-course-management-software"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Choose Course Management Software
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Choose course management software by first defining your specific needs, prioritizing essential features like student su...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/course-creator-tools-and-productivity/course-management-software/course-management-software-vs-lms"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Course Management Software vs LMS
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Course management software focuses on operational efficiency and creator productivity, while LMS platforms emphasize con...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/course-creator-tools-and-productivity/course-management-software/features-to-look-for-in-course-management-tools"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Features to Look for in Course Management Tools
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Essential features include student support automation, content organization tools, communication systems, enrollment man...
+              </p>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       <section className="bg-gray-50 p-8 rounded-lg mb-12">
         <h3 className="text-xl font-medium text-gray-900 mb-4">Learn More About Course Creator Tools & Productivity</h3>
         <Link href="/resources/course-creator-tools-and-productivity" className="text-primary hover:underline">

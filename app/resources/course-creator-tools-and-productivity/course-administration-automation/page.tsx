@@ -260,6 +260,83 @@ Ask students about their experience with automated support. What worked well? Wh
   </p>
 </section>
 
+      
+      <section className="border-t border-gray-200 pt-12 mb-12">
+        <h3 className="text-2xl font-light text-gray-900 mb-6">Related Articles</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link
+            href="/resources/course-creator-tools-and-productivity/course-administration-automation/what-is-course-administration-automation"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                What Is Course Administration Automation
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Course administration automation uses technology to handle repetitive administrative tasks automatically, including stud...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/course-creator-tools-and-productivity/course-administration-automation/how-to-automate-course-administration-tasks"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Automate Course Administration Tasks
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Start by auditing all administrative tasks and identifying repetitive ones. Choose automation tools that integrate with ...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/course-creator-tools-and-productivity/course-administration-automation/benefits-of-course-administration-automation"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Benefits of Course Administration Automation
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Course administration automation delivers significant time savings (10+ hours weekly), enables 24/7 student support, imp...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/course-creator-tools-and-productivity/course-administration-automation/best-course-administration-automation-tools"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Best Course Administration Automation Tools
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Top course administration automation tools include CourseBot for student support, Zapier for workflow automation, LMS-sp...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/course-creator-tools-and-productivity/course-administration-automation/how-much-time-does-course-automation-save"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How Much Time Does Course Automation Save
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Course automation typically saves 15-25 hours per week for active course creators, with the largest savings coming from ...
+              </p>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       <section className="bg-gray-50 p-8 rounded-lg mb-12">
         <h3 className="text-xl font-medium text-gray-900 mb-4">Learn More About Course Creator Tools & Productivity</h3>
         <Link href="/resources/course-creator-tools-and-productivity" className="text-primary hover:underline">

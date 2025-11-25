@@ -182,6 +182,83 @@ Ask students about their experience with automated support. What worked well? Wh
   </p>
 </section>
 
+      
+      <section className="border-t border-gray-200 pt-12 mb-12">
+        <h3 className="text-2xl font-light text-gray-900 mb-6">Related Articles</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link
+            href="/resources/student-engagement-and-success/student-support-systems/what-are-student-support-systems"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                What Are Student Support Systems
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Student support systems are comprehensive frameworks that provide assistance, resources, and guidance to help students s...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/student-engagement-and-success/student-support-systems/how-to-build-effective-student-support-systems"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Build Effective Student Support Systems
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Build effective student support systems by assessing student needs, implementing multiple support channels (AI chatbots,...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/student-engagement-and-success/student-support-systems/best-student-support-systems-for-online-courses"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Best Student Support Systems for Online Courses
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Best student support systems for online courses include AI-powered Q&A tools like CourseBot for instant answers, help de...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/student-engagement-and-success/student-support-systems/benefits-of-automated-student-support-systems"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Benefits of Automated Student Support Systems
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Automated student support systems deliver 24/7 instant availability, handle unlimited concurrent queries, provide consis...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/student-engagement-and-success/student-support-systems/student-support-system-implementation-guide"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Student Support System Implementation Guide
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Implement student support systems by defining support scope and objectives, selecting appropriate tools (prioritize AI a...
+              </p>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       <section className="bg-gray-50 p-8 rounded-lg mb-12">
         <h3 className="text-xl font-medium text-gray-900 mb-4">Learn More About Student Engagement & Success</h3>
         <Link href="/resources/student-engagement-and-success" className="text-primary hover:underline">

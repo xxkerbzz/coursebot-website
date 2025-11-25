@@ -254,6 +254,83 @@ Ask students about their experience with automated support. What worked well? Wh
   </p>
 </section>
 
+      
+      <section className="border-t border-gray-200 pt-12 mb-12">
+        <h3 className="text-2xl font-light text-gray-900 mb-6">Related Articles</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link
+            href="/resources/online-course-creation-and-teaching/course-content-development/how-to-develop-engaging-course-content"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Develop Engaging Course Content
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Develop engaging course content by using varied formats (video, text, audio), incorporating interactive elements like qu...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/online-course-creation-and-teaching/course-content-development/course-content-development-process"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Course Content Development Process
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                The course content development process includes: 1) Planning and researching your topic and audience, 2) Creating a deta...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/online-course-creation-and-teaching/course-content-development/best-tools-for-course-content-development"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Best Tools for Course Content Development
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Best course content development tools include Loom or Camtasia for video, Canva or PowerPoint for visuals, Articulate or...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/online-course-creation-and-teaching/course-content-development/how-to-structure-course-content-effectively"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Structure Course Content Effectively
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Structure course content effectively by organizing into logical modules with clear progression, starting with foundation...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/online-course-creation-and-teaching/course-content-development/course-content-quality-standards"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Course Content Quality Standards
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Course content quality standards include accuracy and credibility of information, professional production quality, clear...
+              </p>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       <section className="bg-gray-50 p-8 rounded-lg mb-12">
         <h3 className="text-xl font-medium text-gray-900 mb-4">Learn More About Online Course Creation & Teaching</h3>
         <Link href="/resources/online-course-creation-and-teaching" className="text-primary hover:underline">

@@ -254,6 +254,83 @@ Ask students about their experience with automated support. What worked well? Wh
   </p>
 </section>
 
+      
+      <section className="border-t border-gray-200 pt-12 mb-12">
+        <h3 className="text-2xl font-light text-gray-900 mb-6">Related Articles</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link
+            href="/resources/online-course-creation-and-teaching/online-course-creation/how-to-create-an-online-course-from-scratch"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Create an Online Course from Scratch
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Create an online course from scratch by identifying a specific topic and target audience, outlining your course structur...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/online-course-creation-and-teaching/online-course-creation/best-practices-for-online-course-creation"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Best Practices for Online Course Creation
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Best practices for online course creation include defining clear learning objectives, designing for engagement with inte...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/online-course-creation-and-teaching/online-course-creation/online-course-creation-tools-and-platforms"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Online Course Creation Tools and Platforms
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Essential online course creation tools include an LMS platform (Teachable, Thinkific, or Canvas), video recording softwa...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/online-course-creation-and-teaching/online-course-creation/how-long-does-it-take-to-create-an-online-course"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How Long Does It Take to Create an Online Course
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Creating an online course typically takes 4-12 weeks, depending on course length, content complexity, and experience lev...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/online-course-creation-and-teaching/online-course-creation/common-online-course-creation-mistakes-to-avoid"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Common Online Course Creation Mistakes to Avoid
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Common course creation mistakes include unclear learning objectives, overwhelming students with too much information, po...
+              </p>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       <section className="bg-gray-50 p-8 rounded-lg mb-12">
         <h3 className="text-xl font-medium text-gray-900 mb-4">Learn More About Online Course Creation & Teaching</h3>
         <Link href="/resources/online-course-creation-and-teaching" className="text-primary hover:underline">

@@ -232,6 +232,83 @@ Ask students about their experience with automated support. What worked well? Wh
   </p>
 </section>
 
+      
+      <section className="border-t border-gray-200 pt-12 mb-12">
+        <h3 className="text-2xl font-light text-gray-900 mb-6">Related Articles</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link
+            href="/resources/ai-student-support-for-online-education/student-question-management/how-to-manage-student-questions-more-efficiently"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Manage Student Questions More Efficiently
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Manage student questions more efficiently by implementing AI-powered automation for common queries, creating comprehensi...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/ai-student-support-for-online-education/student-question-management/what-is-automated-student-question-management"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                What Is Automated Student Question Management
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Automated student question management uses AI technology to automatically answer common student questions, route complex...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/ai-student-support-for-online-education/student-question-management/how-to-reduce-time-spent-answering-student-questions"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Reduce Time Spent Answering Student Questions
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Reduce time spent answering student questions by implementing AI-powered Q&A automation, creating self-service resources...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/ai-student-support-for-online-education/student-question-management/best-practices-for-student-question-management"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Best Practices for Student Question Management
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Best practices for student question management include implementing AI automation for routine questions, setting clear r...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/ai-student-support-for-online-education/student-question-management/how-to-prioritize-student-questions-effectively"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Prioritize Student Questions Effectively
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Prioritize student questions effectively by categorizing by urgency (blocking vs non-blocking), using AI to auto-handle ...
+              </p>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       <section className="bg-gray-50 p-8 rounded-lg mb-12">
         <h3 className="text-xl font-medium text-gray-900 mb-4">Learn More About AI Student Support for Online Education</h3>
         <Link href="/resources/ai-student-support-for-online-education" className="text-primary hover:underline">

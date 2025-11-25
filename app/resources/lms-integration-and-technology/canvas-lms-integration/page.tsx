@@ -293,6 +293,83 @@ Ask students about their experience with automated support. What worked well? Wh
   </p>
 </section>
 
+      
+      <section className="border-t border-gray-200 pt-12 mb-12">
+        <h3 className="text-2xl font-light text-gray-900 mb-6">Related Articles</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link
+            href="/resources/lms-integration-and-technology/canvas-lms-integration/how-to-integrate-ai-support-with-canvas-lms"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Integrate AI Support with Canvas LMS
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Integrate AI support with Canvas LMS using LTI (Learning Tools Interoperability) standard. Select an LTI-compliant AI to...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/lms-integration-and-technology/canvas-lms-integration/canvas-lms-automation-tools"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Canvas LMS Automation Tools
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Top Canvas LMS automation tools include CourseBot for AI-powered student support, SpeedGrader for assessment automation,...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/lms-integration-and-technology/canvas-lms-integration/benefits-of-canvas-lms-integration-for-universities"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Benefits of Canvas LMS Integration for Universities
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Canvas LMS integration benefits universities through scalable 24/7 student support, significant reduction in faculty adm...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/lms-integration-and-technology/canvas-lms-integration/canvas-api-integration-guide"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Canvas API Integration Guide
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Canvas API provides RESTful endpoints for course data, users, assignments, and more. Integration requires API access tok...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/lms-integration-and-technology/canvas-lms-integration/best-canvas-lms-support-tools"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Best Canvas LMS Support Tools
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                The best Canvas LMS support tools include CourseBot for AI-powered automated support, Zendesk for help desk functionalit...
+              </p>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       <section className="bg-gray-50 p-8 rounded-lg mb-12">
         <h3 className="text-xl font-medium text-gray-900 mb-4">Learn More About LMS Integration & Technology</h3>
         <Link href="/resources/lms-integration-and-technology" className="text-primary hover:underline">

@@ -149,6 +149,83 @@ export default function Page() {
   </p>
 </section>
 
+      
+      <section className="border-t border-gray-200 pt-12 mb-12">
+        <h3 className="text-2xl font-light text-gray-900 mb-6">Related Articles</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link
+            href="/resources/student-engagement-and-success/student-experience-improvement/how-to-improve-online-student-experience"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Improve Online Student Experience
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Improve online student experience by creating intuitive course navigation, providing instant support through AI tools li...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/student-engagement-and-success/student-experience-improvement/what-makes-a-great-online-course-experience"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                What Makes a Great Online Course Experience
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                A great online course experience combines high-quality content, excellent instructor presence, instant support availabil...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/student-engagement-and-success/student-experience-improvement/student-experience-best-practices"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Student Experience Best Practices
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Student experience best practices include setting clear expectations upfront, providing multiple communication channels,...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/student-engagement-and-success/student-experience-improvement/measuring-student-experience-and-satisfaction"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Measuring Student Experience and Satisfaction
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Measure student experience and satisfaction through surveys (NPS, satisfaction scores), completion rates, engagement met...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/student-engagement-and-success/student-experience-improvement/how-support-quality-affects-student-experience"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How Support Quality Affects Student Experience
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Support quality fundamentally shapes student experience by determining frustration levels, learning momentum, confidence...
+              </p>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       <section className="bg-gray-50 p-8 rounded-lg mb-12">
         <h3 className="text-xl font-medium text-gray-900 mb-4">Learn More About Student Engagement & Success</h3>
         <Link href="/resources/student-engagement-and-success" className="text-primary hover:underline">

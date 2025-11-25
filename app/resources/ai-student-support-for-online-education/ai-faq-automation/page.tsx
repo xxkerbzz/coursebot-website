@@ -403,6 +403,83 @@ Ask students about their experience with automated support. What worked well? Wh
   </p>
 </section>
 
+      
+      <section className="border-t border-gray-200 pt-12 mb-12">
+        <h3 className="text-2xl font-light text-gray-900 mb-6">Related Articles</h3>
+        <div className="grid md:grid-cols-2 gap-4">
+          <Link
+            href="/resources/ai-student-support-for-online-education/ai-faq-automation/how-does-ai-faq-automation-work-for-online-courses"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How Does AI FAQ Automation Work for Online Courses
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                AI FAQ automation uses natural language processing to understand student questions and machine learning to deliver accur...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/ai-student-support-for-online-education/ai-faq-automation/what-are-the-benefits-of-ai-faq-automation-for-educators"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                What Are the Benefits of AI FAQ Automation for Educators
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                AI FAQ automation saves educators 10+ hours weekly by handling repetitive questions instantly, provides 24/7 student sup...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/ai-student-support-for-online-education/ai-faq-automation/how-to-set-up-ai-faq-automation-for-your-course"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How to Set Up AI FAQ Automation for Your Course
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                Set up AI FAQ automation by gathering your course materials, selecting a platform like CourseBot, uploading your content...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/ai-student-support-for-online-education/ai-faq-automation/best-ai-faq-automation-tools-for-online-education"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                Best AI FAQ Automation Tools for Online Education
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                The best AI FAQ automation tools for online education include CourseBot (specialized for courses), Intercom (customer su...
+              </p>
+            </div>
+          </Link>
+          <Link
+            href="/resources/ai-student-support-for-online-education/ai-faq-automation/how-much-does-ai-faq-automation-cost"
+            className="flex items-start gap-3 p-4 border border-gray-200 rounded-lg hover:border-primary hover:bg-gray-50 transition-all group"
+          >
+            <span className="text-primary mt-1">→</span>
+            <div>
+              <h4 className="text-gray-900 font-medium group-hover:text-primary mb-1">
+                How Much Does AI FAQ Automation Cost
+              </h4>
+              <p className="text-sm text-gray-600 font-light">
+                AI FAQ automation for course creators typically costs $49-$199/month depending on features and course size. Given averag...
+              </p>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       <section className="bg-gray-50 p-8 rounded-lg mb-12">
         <h3 className="text-xl font-medium text-gray-900 mb-4">Learn More About AI Student Support for Online Education</h3>
         <Link href="/resources/ai-student-support-for-online-education" className="text-primary hover:underline">
